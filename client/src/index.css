@@ -1,0 +1,20 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+#root {
+  overflow-x: clip;
+}
+.list {
+  padding: 24px 10px 24px 32px;
+  border-radius: 6px;
+  flex: 1;
+}
+.list h2 {
+  font-weight: 600;
+}
+.list section {
+  max-height: 100vh;
+  padding-right: 8px;
+  overflow: auto;
+}

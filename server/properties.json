@@ -1,0 +1,5278 @@
+{
+  "properties": [
+    {
+      "_id": "66232864ef5cda786692deba",
+      "address": "Apt 00021, 17 Rue Jules Guesde Levallois-Pérret 92300",
+      "rentalCost": {
+        "April:2024": "1300.000"
+      },
+      "propertyName": "1B Levallois - 17 Rue Jules",
+      "tag": "1B Levallois",
+      "contractStartDate": "2024-02-10",
+      "contractEndDate": "2025-02-09",
+      "directCost": {
+        "April:2024": "1405.000"
+      },
+      "group": "Full Property List",
+      "city": "Paris",
+      "fixedCost": 50,
+      "__v": 0
+    },
+    {
+      "_id": "66232864ef5cda786692debb",
+      "address": "12 Chemin Pierre de Ronsard Courbevoie, 92400",
+      "rentalCost": {
+        "April:2024": "1450.000"
+      },
+      "propertyName": "1B Courbevoie - 12 Chemin Pierre",
+      "tag": "1B Courbevoie",
+      "contractStartDate": "2024-04-10",
+      "contractEndDate": "2025-04-09",
+      "directCost": {
+        "April:2024": "1555.000"
+      },
+      "group": "Full Property List",
+      "city": "Paris",
+      "fixedCost": 50,
+      "__v": 0
+    },
+    {
+      "_id": "66232864ef5cda786692debc",
+      "address": "54 Rue Guy Môquet, 75017 Paris, France",
+      "rentalCost": {
+        "April:2024": "1240.000"
+      },
+      "propertyName": "1B Moquet - 54 Rue Guy",
+      "tag": "1B Moquet",
+      "contractStartDate": "2024-04-04",
+      "contractEndDate": "2025-04-03",
+      "directCost": {
+        "April:2024": "1345.000"
+      },
+      "group": "Full Property List",
+      "city": "Paris",
+      "fixedCost": 50,
+      "__v": 0
+    },
+    {
+      "_id": "66232864ef5cda786692debd",
+      "address": "Flat 803, Clarens tower 2, Downtown",
+      "rentalCost": {
+        "April:2024": "8333.000"
+      },
+      "propertyName": "1B downtown - 803 Clarens Tower 2",
+      "tag": "1B downtown",
+      "contractStartDate": "2023-10-13",
+      "contractEndDate": "2024-10-12",
+      "directCost": {
+        "April:2024": "9133.000"
+      },
+      "group": "Full Property List",
+      "city": "Dubai",
+      "fixedCost": 50,
+      "__v": 0
+    },
+    {
+      "_id": "66232864ef5cda786692debe",
+      "address": "Flat 4105 Burj Royale, 461 Burj Khalifa, Downtown",
+      "rentalCost": {
+        "April:2024": "12500.000"
+      },
+      "propertyName": "2B downtown - 4105 Burj Royale",
+      "tag": "2B downtown",
+      "contractStartDate": "2023-11-15",
+      "contractEndDate": "2024-11-14",
+      "directCost": {
+        "April:2024": "13300.000"
+      },
+      "group": "Full Property List",
+      "city": "Dubai",
+      "fixedCost": 50,
+      "__v": 0
+    },
+    {
+      "_id": "66232864ef5cda786692debf",
+      "address": "Flat 4205 Burj Royale, 461 Burj Khalifa, Downtown",
+      "rentalCost": {
+        "April:2024": "12500.000"
+      },
+      "propertyName": "2B downtown - 4205 Burj Royale",
+      "tag": "2B downtown",
+      "contractStartDate": "2023-12-01",
+      "contractEndDate": "2024-11-30",
+      "directCost": {
+        "April:2024": "13300.000"
+      },
+      "group": "Full Property List",
+      "city": "Dubai",
+      "fixedCost": 50,
+      "__v": 0
+    },
+    {
+      "_id": "66232864ef5cda786692dec0",
+      "address": "Flat 29 Résidence el maroua, Rue Hamdani Lahcene, HYDRA, Alger",
+      "rentalCost": {
+        "April:2024": "362.319"
+      },
+      "propertyName": "2B Hydra C - 29 El Maroua",
+      "tag": "2B Hydra C",
+      "contractStartDate": "2022-11-28",
+      "contractEndDate": null,
+      "directCost": {
+        "April:2024": "391.304"
+      },
+      "group": "Full Property List",
+      "city": "Algiers",
+      "fixedCost": 50,
+      "__v": 0
+    },
+    {
+      "_id": "66232864ef5cda786692dec1",
+      "address": "Flat 0 Residence boudiaf hydra",
+      "rentalCost": {
+        "April:2024": "507.246"
+      },
+      "propertyName": "2B Hydra A - 1 Boudiaf",
+      "tag": "2B Hydra A",
+      "contractStartDate": "2023-04-10",
+      "contractEndDate": null,
+      "directCost": {
+        "April:2024": "536.232"
+      },
+      "group": "Full Property List",
+      "city": "Algiers",
+      "fixedCost": 50,
+      "__v": 0
+    },
+    {
+      "_id": "66232864ef5cda786692dec2",
+      "address": "Flat 1 Residence boudiaf hydra",
+      "rentalCost": {
+        "April:2024": "507.246"
+      },
+      "propertyName": "2B Hydra A - 2 Boudiaf",
+      "tag": "2B Hydra A",
+      "contractStartDate": "2023-01-15",
+      "contractEndDate": "2024-06-20",
+      "directCost": {
+        "April:2024": "536.232"
+      },
+      "group": "Full Property List",
+      "city": "Algiers",
+      "fixedCost": 50,
+      "__v": 0
+    },
+    {
+      "_id": "66232864ef5cda786692dec3",
+      "address": "Flat 2 Residence boudiaf hydra",
+      "rentalCost": {
+        "April:2024": "507.246"
+      },
+      "propertyName": "2B Hydra A - 3 Boudiaf",
+      "tag": "2B Hydra A",
+      "contractStartDate": "2023-01-15",
+      "contractEndDate": "2024-06-20",
+      "directCost": {
+        "April:2024": "536.232"
+      },
+      "group": "Full Property List",
+      "city": "Algiers",
+      "fixedCost": 50,
+      "__v": 0
+    },
+    {
+      "_id": "66232864ef5cda786692dec4",
+      "address": "Flat 3 Residence boudiaf hydra",
+      "rentalCost": {
+        "April:2024": "507.246"
+      },
+      "propertyName": "2B Hydra A - 4 Boudiaf",
+      "tag": "2B Hydra A",
+      "contractStartDate": "2023-01-15",
+      "contractEndDate": "2024-06-20",
+      "directCost": {
+        "April:2024": "536.232"
+      },
+      "group": "Full Property List",
+      "city": "Algiers",
+      "fixedCost": 50,
+      "__v": 0
+    },
+    {
+      "_id": "66232864ef5cda786692dec5",
+      "address": "Flat 4 Residence boudiaf hydra",
+      "rentalCost": {
+        "April:2024": "507.246"
+      },
+      "propertyName": "2B Hydra A - 5 Boudiaf",
+      "tag": "2B Hydra A",
+      "contractStartDate": "2023-01-15",
+      "contractEndDate": "2024-06-20",
+      "directCost": {
+        "April:2024": "536.232"
+      },
+      "group": "Full Property List",
+      "city": "Algiers",
+      "fixedCost": 50,
+      "__v": 0
+    },
+    {
+      "_id": "66232864ef5cda786692dec6",
+      "address": "Flat 25 Résidence el maroua, Rue Hamdani Lahcene, HYDRA, Alger",
+      "rentalCost": {
+        "April:2024": "434.783"
+      },
+      "propertyName": "2B Hydra C - 25 El Maroua",
+      "tag": "2B Hydra C",
+      "contractStartDate": "2023-05-18",
+      "contractEndDate": null,
+      "directCost": {
+        "April:2024": "463.768"
+      },
+      "group": "Full Property List",
+      "city": "Algiers",
+      "fixedCost": 50,
+      "__v": 0
+    },
+    {
+      "_id": "66232864ef5cda786692dec7",
+      "address": "36 RUE DU STADE HYDRA ALGER",
+      "rentalCost": {
+        "April:2024": "507.246"
+      },
+      "propertyName": "2B Hydra B - 12 Rue Du Stade",
+      "tag": "2B Hydra B",
+      "contractStartDate": "2023-06-04",
+      "contractEndDate": null,
+      "directCost": {
+        "April:2024": "536.232"
+      },
+      "group": "Full Property List",
+      "city": "Algiers",
+      "fixedCost": 50,
+      "__v": 0
+    },
+    {
+      "_id": "66232864ef5cda786692dec8",
+      "address": "Appartement 16 Coopérative Hadana Haut Site Hydra",
+      "rentalCost": {
+        "April:2024": "398.551"
+      },
+      "propertyName": "2B Hydra D - 16 Hadana",
+      "tag": "2B Hydra D",
+      "contractStartDate": "2023-07-05",
+      "contractEndDate": null,
+      "directCost": {
+        "April:2024": "427.536"
+      },
+      "group": "Full Property List",
+      "city": "Algiers",
+      "fixedCost": 50,
+      "__v": 0
+    },
+    {
+      "_id": "66232864ef5cda786692dec9",
+      "address": "flat 1, 96 Rue Sylvain Fourastier, El Mouradia",
+      "rentalCost": {
+        "April:2024": "398.551"
+      },
+      "propertyName": "2B Mouradia - 6 Rue Sylvain",
+      "tag": "2B Mouradia",
+      "contractStartDate": "2023-07-25",
+      "contractEndDate": null,
+      "directCost": {
+        "April:2024": "427.536"
+      },
+      "group": "Full Property List",
+      "city": "Algiers",
+      "fixedCost": 50,
+      "__v": 0
+    },
+    {
+      "_id": "66232864ef5cda786692deca",
+      "address": "flat 2, 96 Rue Sylvain Fourastier, El Mouradia",
+      "rentalCost": {
+        "April:2024": "398.551"
+      },
+      "propertyName": "2B Mouradia - 2 Rue Sylvain",
+      "tag": "2B Mouradia",
+      "contractStartDate": "2023-07-25",
+      "contractEndDate": null,
+      "directCost": {
+        "April:2024": "427.536"
+      },
+      "group": "Full Property List",
+      "city": "Algiers",
+      "fixedCost": 50,
+      "__v": 0
+    },
+    {
+      "_id": "66232864ef5cda786692decb",
+      "address": "flat 3, 96 Rue Sylvain Fourastier, El Mouradia",
+      "rentalCost": {
+        "April:2024": "398.551"
+      },
+      "propertyName": "2B Mouradia - 3 Rue Sylvain",
+      "tag": "2B Mouradia",
+      "contractStartDate": "2023-07-25",
+      "contractEndDate": null,
+      "directCost": {
+        "April:2024": "427.536"
+      },
+      "group": "Full Property List",
+      "city": "Algiers",
+      "fixedCost": 50,
+      "__v": 0
+    },
+    {
+      "_id": "66232864ef5cda786692decc",
+      "address": "flat 3, 96 Rue Sylvain Fourastier, El Mouradia",
+      "rentalCost": {
+        "April:2024": "398.551"
+      },
+      "propertyName": "2B Mouradia - 4 Rue Sylvain",
+      "tag": "2B Mouradia",
+      "contractStartDate": "2023-07-25",
+      "contractEndDate": null,
+      "directCost": {
+        "April:2024": "427.536"
+      },
+      "group": "Full Property List",
+      "city": "Algiers",
+      "fixedCost": 50,
+      "__v": 0
+    },
+    {
+      "_id": "66232864ef5cda786692decd",
+      "address": "flat 4, 96 Rue Sylvain Fourastier, El Mouradia",
+      "rentalCost": {
+        "April:2024": "398.551"
+      },
+      "propertyName": "2B Mouradia - 5 Rue Sylvain",
+      "tag": "2B Mouradia",
+      "contractStartDate": "2023-07-25",
+      "contractEndDate": null,
+      "directCost": {
+        "April:2024": "427.536"
+      },
+      "group": "Full Property List",
+      "city": "Algiers",
+      "fixedCost": 50,
+      "__v": 0
+    },
+    {
+      "_id": "66232864ef5cda786692dece",
+      "address": "flat 5, 96 Rue Sylvain Fourastier, El Mouradia",
+      "rentalCost": {
+        "April:2024": "362.319"
+      },
+      "propertyName": "1B Mouradia - 1 Rue Sylvain",
+      "tag": "1B Mouradia",
+      "contractStartDate": "2023-07-25",
+      "contractEndDate": null,
+      "directCost": {
+        "April:2024": "391.304"
+      },
+      "group": "Full Property List",
+      "city": "Algiers",
+      "fixedCost": 50,
+      "__v": 0
+    },
+    {
+      "_id": "66232864ef5cda786692decf",
+      "address": "flat 6, 96 Rue Sylvain Fourastier, El Mouradia",
+      "rentalCost": {
+        "April:2024": "398.551"
+      },
+      "propertyName": "3B Mouradia - 7 Rue Sylvain",
+      "tag": "3B Mouradia",
+      "contractStartDate": "2023-07-25",
+      "contractEndDate": null,
+      "directCost": {
+        "April:2024": "427.536"
+      },
+      "group": "Full Property List",
+      "city": "Algiers",
+      "fixedCost": 50,
+      "__v": 0
+    },
+    {
+      "_id": "66232864ef5cda786692ded0",
+      "address": "flat 7, 96 Rue Sylvain Fourastier, El Mouradia",
+      "rentalCost": {
+        "April:2024": "398.551"
+      },
+      "propertyName": "4B Mouradia - 8 Rue Sylvain",
+      "tag": "4B Mouradia",
+      "contractStartDate": "2023-07-25",
+      "contractEndDate": null,
+      "directCost": {
+        "April:2024": "427.536"
+      },
+      "group": "Full Property List",
+      "city": "Algiers",
+      "fixedCost": 50,
+      "__v": 0
+    },
+    {
+      "_id": "66232864ef5cda786692ded1",
+      "address": "Rue Castellon Kouba, Alger, Algérie",
+      "rentalCost": {
+        "April:2024": "471.014"
+      },
+      "propertyName": "2B Kouba - Rue Castellon",
+      "tag": "2B Kouba",
+      "contractStartDate": "2023-09-09",
+      "contractEndDate": null,
+      "directCost": {
+        "April:2024": "500.000"
+      },
+      "group": "Full Property List",
+      "city": "Algiers",
+      "fixedCost": 50,
+      "__v": 0
+    },
+    {
+      "_id": "66232864ef5cda786692ded2",
+      "address": "Flat 6 Residence boudiaf hydra",
+      "rentalCost": {
+        "April:2024": "253.623"
+      },
+      "propertyName": "1B Hydra A - 6 Boudiaf",
+      "tag": "1B Hydra A",
+      "contractStartDate": "2023-10-10",
+      "contractEndDate": null,
+      "directCost": {
+        "April:2024": "282.609"
+      },
+      "group": "Full Property List",
+      "city": "Algiers",
+      "fixedCost": 50,
+      "__v": 0
+    },
+    {
+      "_id": "66232864ef5cda786692ded3",
+      "address": "906 Residence Atmosphere Draria",
+      "rentalCost": {
+        "April:2024": "543.478"
+      },
+      "propertyName": "3B Draria - 306 Atmosphere",
+      "tag": "3B Draria",
+      "contractStartDate": "2024-01-01",
+      "contractEndDate": null,
+      "directCost": {
+        "April:2024": "572.464"
+      },
+      "group": "Full Property List",
+      "city": "Algiers",
+      "fixedCost": 50,
+      "__v": 0
+    },
+    {
+      "_id": "66232864ef5cda786692ded4",
+      "address": "Rue Cirta Hydra, Alger",
+      "rentalCost": {
+        "April:2024": "579.710"
+      },
+      "propertyName": "2B Hydra B - 7 Rue Cirta",
+      "tag": "2B Hydra B",
+      "contractStartDate": "2024-01-31",
+      "contractEndDate": null,
+      "directCost": {
+        "April:2024": "608.696"
+      },
+      "group": "Full Property List",
+      "city": "Algiers",
+      "fixedCost": 50,
+      "__v": 0
+    },
+    {
+      "_id": "66232864ef5cda786692ded5",
+      "address": "20 Rue Du Stade",
+      "rentalCost": {
+        "April:2024": "434.783"
+      },
+      "propertyName": "1B Hydra B - 20 Rue Du Stade",
+      "tag": "1B Hydra B",
+      "contractStartDate": "2024-02-21",
+      "contractEndDate": null,
+      "directCost": {
+        "April:2024": "463.768"
+      },
+      "group": "Full Property List",
+      "city": "Algiers",
+      "fixedCost": 50,
+      "__v": 0
+    },
+    {
+      "_id": "66232864ef5cda786692ded6",
+      "address": "13 Rue Du Stade",
+      "rentalCost": {
+        "April:2024": "543.478"
+      },
+      "propertyName": "2B Hydra B - 13 Rue Du Stade",
+      "tag": "2B Hydra B",
+      "contractStartDate": "2024-02-15",
+      "contractEndDate": null,
+      "directCost": {
+        "April:2024": "572.464"
+      },
+      "group": "Full Property List",
+      "city": "Algiers",
+      "fixedCost": 50,
+      "__v": 0
+    },
+    {
+      "_id": "66232864ef5cda786692ded7",
+      "address": "1 Rue Abou Hanifa Les Sources Alger",
+      "rentalCost": {
+        "April:2024": "434.783"
+      },
+      "propertyName": "1B Sources - 1 Rue Abou Hanifa",
+      "tag": "1B Sources",
+      "contractStartDate": "2024-03-10",
+      "contractEndDate": null,
+      "directCost": {
+        "April:2024": "463.768"
+      },
+      "group": "Full Property List",
+      "city": "Algiers",
+      "fixedCost": 50,
+      "__v": 0
+    },
+    {
+      "_id": "66232864ef5cda786692ded8",
+      "address": "2 Rue Abou Hanifa Les Sources Alger",
+      "rentalCost": {
+        "April:2024": "434.783"
+      },
+      "propertyName": "1B Sources - 2 Rue Abou Hanifa",
+      "tag": "1B Sources",
+      "contractStartDate": "2024-03-10",
+      "contractEndDate": null,
+      "directCost": {
+        "April:2024": "463.768"
+      },
+      "group": "Full Property List",
+      "city": "Algiers",
+      "fixedCost": 50,
+      "__v": 0
+    },
+    {
+      "_id": "66232864ef5cda786692ded9",
+      "address": "6 Rue Abou Hanifa Les Sources Alger",
+      "rentalCost": {
+        "April:2024": "434.783"
+      },
+      "propertyName": "1B Sources - 6 Rue Abou Hanifa",
+      "tag": "1B Sources",
+      "contractStartDate": "2024-03-10",
+      "contractEndDate": null,
+      "directCost": {
+        "April:2024": "463.768"
+      },
+      "group": "Full Property List",
+      "city": "Algiers",
+      "fixedCost": 50,
+      "__v": 0
+    },
+    {
+      "_id": "66232864ef5cda786692deda",
+      "address": "9 Rue Abou Hanifa Les Sources Alger",
+      "rentalCost": {
+        "April:2024": "434.783"
+      },
+      "propertyName": "1B Sources - 9 Rue Abou Hanifa",
+      "tag": "1B Sources",
+      "contractStartDate": "2024-03-10",
+      "contractEndDate": null,
+      "directCost": {
+        "April:2024": "463.768"
+      },
+      "group": "Full Property List",
+      "city": "Algiers",
+      "fixedCost": 50,
+      "__v": 0
+    },
+    {
+      "_id": "66232864ef5cda786692dedb",
+      "address": "10 Rue Abou Hanifa Les Sources Alger",
+      "rentalCost": {
+        "April:2024": "434.783"
+      },
+      "propertyName": "1B Sources - 10 Rue Abou Hanifa",
+      "tag": "1B Sources",
+      "contractStartDate": "2024-03-10",
+      "contractEndDate": null,
+      "directCost": {
+        "April:2024": "463.768"
+      },
+      "group": "Full Property List",
+      "city": "Algiers",
+      "fixedCost": 50,
+      "__v": 0
+    },
+    {
+      "_id": "66232864ef5cda786692dedc",
+      "address": "5 Rue Abou Hanifa Les Sources Alger",
+      "rentalCost": {
+        "April:2024": "434.783"
+      },
+      "propertyName": "1B Sources - 5 Rue Abou Hanifa",
+      "tag": "1B Sources",
+      "contractStartDate": "2024-05-31",
+      "contractEndDate": null,
+      "directCost": {
+        "April:2024": "463.768"
+      },
+      "group": "Full Property List",
+      "city": "Algiers",
+      "fixedCost": 50,
+      "__v": 0
+    },
+    {
+      "_id": "66232864ef5cda786692dedd",
+      "address": "13 Rue Abou Hanifa Les Sources Alger",
+      "rentalCost": {
+        "April:2024": "434.783"
+      },
+      "propertyName": "1B Sources - 13 Rue Abou Hanifa",
+      "tag": "1B Sources",
+      "contractStartDate": "2024-05-31",
+      "contractEndDate": null,
+      "directCost": {
+        "April:2024": "463.768"
+      },
+      "group": "Full Property List",
+      "city": "Algiers",
+      "fixedCost": 50,
+      "__v": 0
+    },
+    {
+      "_id": "66232864ef5cda786692dede",
+      "address": "14 Rue Abou Hanifa Les Sources Alger",
+      "rentalCost": {
+        "April:2024": "434.783"
+      },
+      "propertyName": "1B Sources - 14 Rue Abou Hanifa",
+      "tag": "1B Sources",
+      "contractStartDate": "2024-05-31",
+      "contractEndDate": null,
+      "directCost": {
+        "April:2024": "463.768"
+      },
+      "group": "Full Property List",
+      "city": "Algiers",
+      "fixedCost": 50,
+      "__v": 0
+    },
+    {
+      "_id": "66232864ef5cda786692dedf",
+      "address": "17 Rue Abou Hanifa Les Sources Alger",
+      "rentalCost": {
+        "April:2024": "434.783"
+      },
+      "propertyName": "1B Sources - 17 Rue Abou Hanifa",
+      "tag": "1B Sources",
+      "contractStartDate": "2024-05-31",
+      "contractEndDate": null,
+      "directCost": {
+        "April:2024": "463.768"
+      },
+      "group": "Full Property List",
+      "city": "Algiers",
+      "fixedCost": 50,
+      "__v": 0
+    },
+    {
+      "_id": "66232864ef5cda786692dee0",
+      "address": "18 Rue Abou Hanifa Les Sources Alger",
+      "rentalCost": {
+        "April:2024": "434.783"
+      },
+      "propertyName": "1B Sources - 18 Rue Abou Hanifa",
+      "tag": "1B Sources",
+      "contractStartDate": "2024-05-31",
+      "contractEndDate": null,
+      "directCost": {
+        "April:2024": "463.768"
+      },
+      "group": "Full Property List",
+      "city": "Algiers",
+      "fixedCost": 50,
+      "__v": 0
+    },
+    {
+      "_id": "66232864ef5cda786692dee1",
+      "address": "Flat 1 Osprey House, 5 Victory Place, London E14 8BG",
+      "rentalCost": {
+        "April:2024": "2300.000"
+      },
+      "propertyName": "2B E14 A - 1 Osprey House",
+      "tag": "2B E14 A",
+      "contractStartDate": "2024-05-31",
+      "contractEndDate": "2027-05-31",
+      "directCost": {
+        "April:2024": "2666.330"
+      },
+      "group": "Full Property List",
+      "city": "London",
+      "fixedCost": 50,
+      "__v": 0
+    },
+    {
+      "_id": "66232864ef5cda786692dee2",
+      "address": "BASEMENT FLAT, 64 RICHBORNE TERRACE, SW81AX",
+      "rentalCost": {
+        "April:2024": "1500.000"
+      },
+      "propertyName": "1B SW8 - 1 Richborne Terrace",
+      "tag": "1B SW8",
+      "contractStartDate": "2024-01-29",
+      "contractEndDate": "2027-01-29",
+      "directCost": {
+        "April:2024": "1806.500"
+      },
+      "group": "Full Property List",
+      "city": "London",
+      "fixedCost": 50,
+      "__v": 0
+    },
+    {
+      "_id": "66232864ef5cda786692dee3",
+      "address": "Flat 69, Thomas York House, 107 Woolwich High Street, London, SE18 6EA",
+      "rentalCost": {
+        "April:2024": "1800.000"
+      },
+      "propertyName": "1B SE18 - 69 Thomas York House",
+      "tag": "1B SE18",
+      "contractStartDate": "2024-01-22",
+      "contractEndDate": "2027-01-21",
+      "directCost": {
+        "April:2024": "2110.400"
+      },
+      "group": "Full Property List",
+      "city": "London",
+      "fixedCost": 50,
+      "__v": 0
+    },
+    {
+      "_id": "66232864ef5cda786692dee4",
+      "address": "29 New Cross Road London SE14 5DS",
+      "rentalCost": {
+        "April:2024": "857.143"
+      },
+      "propertyName": "0B SE14 R - 1 New Cross Road",
+      "tag": "0B SE14 R",
+      "contractStartDate": "2024-01-15",
+      "contractEndDate": "2026-01-15",
+      "directCost": {
+        "April:2024": "913.857"
+      },
+      "group": "Full Property List",
+      "city": "London",
+      "fixedCost": 7.142857142857143,
+      "__v": 0
+    },
+    {
+      "_id": "66232864ef5cda786692dee5",
+      "address": "29 New Cross Road London SE14 5DS",
+      "rentalCost": {
+        "April:2024": "857.143"
+      },
+      "propertyName": "0B SE14 R - 2 New Cross Road",
+      "tag": "0B SE14 R",
+      "contractStartDate": "2024-01-15",
+      "contractEndDate": "2026-01-15",
+      "directCost": {
+        "April:2024": "913.857"
+      },
+      "group": "Full Property List",
+      "city": "London",
+      "fixedCost": 7.142857142857143,
+      "__v": 0
+    },
+    {
+      "_id": "66232864ef5cda786692dee6",
+      "address": "29 New Cross Road London SE14 5DS",
+      "rentalCost": {
+        "April:2024": "857.143"
+      },
+      "propertyName": "0B SE14 R - 3 New Cross Road",
+      "tag": "0B SE14 R",
+      "contractStartDate": "2024-01-15",
+      "contractEndDate": "2026-01-15",
+      "directCost": {
+        "April:2024": "913.857"
+      },
+      "group": "Full Property List",
+      "city": "London",
+      "fixedCost": 7.142857142857143,
+      "__v": 0
+    },
+    {
+      "_id": "66232864ef5cda786692dee7",
+      "address": "29 New Cross Road London SE14 5DS",
+      "rentalCost": {
+        "April:2024": "857.143"
+      },
+      "propertyName": "0B SE14 R - 4 New Cross Road",
+      "tag": "0B SE14 R",
+      "contractStartDate": "2024-01-15",
+      "contractEndDate": "2026-01-15",
+      "directCost": {
+        "April:2024": "913.857"
+      },
+      "group": "Full Property List",
+      "city": "London",
+      "fixedCost": 7.142857142857143,
+      "__v": 0
+    },
+    {
+      "_id": "66232864ef5cda786692dee8",
+      "address": "29 New Cross Road London SE14 5DS",
+      "rentalCost": {
+        "April:2024": "857.143"
+      },
+      "propertyName": "0B SE14 R - 5 New Cross Road",
+      "tag": "0B SE14 R",
+      "contractStartDate": "2024-01-15",
+      "contractEndDate": "2026-01-15",
+      "directCost": {
+        "April:2024": "913.857"
+      },
+      "group": "Full Property List",
+      "city": "London",
+      "fixedCost": 7.142857142857143,
+      "__v": 0
+    },
+    {
+      "_id": "66232864ef5cda786692dee9",
+      "address": "29 New Cross Road London SE14 5DS",
+      "rentalCost": {
+        "April:2024": "857.143"
+      },
+      "propertyName": "0B SE14 R - 6 New Cross Road",
+      "tag": "0B SE14 R",
+      "contractStartDate": "2024-01-15",
+      "contractEndDate": "2026-01-15",
+      "directCost": {
+        "April:2024": "913.857"
+      },
+      "group": "Full Property List",
+      "city": "London",
+      "fixedCost": 7.142857142857143,
+      "__v": 0
+    },
+    {
+      "_id": "66232864ef5cda786692deea",
+      "address": "29 New Cross Road London SE14 5DS",
+      "rentalCost": {
+        "April:2024": "857.143"
+      },
+      "propertyName": "0B SE14 R - 7 New Cross Road",
+      "tag": "0B SE14 R",
+      "contractStartDate": "2024-01-15",
+      "contractEndDate": "2026-01-15",
+      "directCost": {
+        "April:2024": "913.857"
+      },
+      "group": "Full Property List",
+      "city": "London",
+      "fixedCost": 7.142857142857143,
+      "__v": 0
+    },
+    {
+      "_id": "66232864ef5cda786692deeb",
+      "address": "5 Handa Walk London N1 2RF",
+      "rentalCost": {
+        "April:2024": "2300.000"
+      },
+      "propertyName": "2B N1 G - 5 Handa Walk",
+      "tag": "2B N1 G",
+      "contractStartDate": "2024-01-08",
+      "contractEndDate": "2027-01-08",
+      "directCost": {
+        "April:2024": "2621.000"
+      },
+      "group": "Full Property List",
+      "city": "London",
+      "fixedCost": 50,
+      "__v": 0
+    },
+    {
+      "_id": "66232864ef5cda786692deec",
+      "address": "Flat 25, Coneybear Point, 10 Peartree Way, London SE10 0JW",
+      "rentalCost": {
+        "April:2024": "2500.000"
+      },
+      "propertyName": "2B SE10 - 25 Coneybear Point",
+      "tag": "2B SE10",
+      "contractStartDate": "2024-01-01",
+      "contractEndDate": "2025-01-01",
+      "directCost": {
+        "April:2024": "2836.000"
+      },
+      "group": "Full Property List",
+      "city": "London",
+      "fixedCost": 50,
+      "__v": 0
+    },
+    {
+      "_id": "66232864ef5cda786692deed",
+      "address": "Flat 3, 174 Wandsworth Road, London SW8 2LA",
+      "rentalCost": {
+        "April:2024": "3500.000"
+      },
+      "propertyName": "3B SW8 - 3 Wandsworth Road",
+      "tag": "3B SW8",
+      "contractStartDate": "2023-12-18",
+      "contractEndDate": "2025-12-18",
+      "directCost": {
+        "April:2024": "3855.450"
+      },
+      "group": "Full Property List",
+      "city": "London",
+      "fixedCost": 50,
+      "__v": 0
+    },
+    {
+      "_id": "66232864ef5cda786692deee",
+      "address": "Flat 17 Angel House 20-32, Pentonville Road LONDON, N1 9HJ",
+      "rentalCost": {
+        "April:2024": "1900.000"
+      },
+      "propertyName": "1B N1 - 17 Angel House",
+      "tag": "1B N1",
+      "contractStartDate": "2023-12-15",
+      "contractEndDate": "2026-12-15",
+      "directCost": {
+        "April:2024": "2210.400"
+      },
+      "group": "Full Property List",
+      "city": "London",
+      "fixedCost": 50,
+      "__v": 0
+    },
+    {
+      "_id": "66232864ef5cda786692deef",
+      "address": "Flat 15, 197 LongLane London SE1 4PD",
+      "rentalCost": {
+        "April:2024": "1950.000"
+      },
+      "propertyName": "1B SE1 A - 15 Long Lane",
+      "tag": "1B SE1 A",
+      "contractStartDate": "2023-11-24",
+      "contractEndDate": "2026-11-24",
+      "directCost": {
+        "April:2024": "2276.000"
+      },
+      "group": "Full Property List",
+      "city": "London",
+      "fixedCost": 50,
+      "__v": 0
+    },
+    {
+      "_id": "66232864ef5cda786692def0",
+      "address": "First Floor Flat, 19 St Johns Road, Richmond, TW9 2PE",
+      "rentalCost": {
+        "April:2024": "2200.000"
+      },
+      "propertyName": "2B TW9 - 19 St Johns Road",
+      "tag": "2B TW9",
+      "contractStartDate": "2023-11-20",
+      "contractEndDate": "2026-11-19",
+      "directCost": {
+        "April:2024": "2539.250"
+      },
+      "group": "Full Property List",
+      "city": "London",
+      "fixedCost": 50,
+      "__v": 0
+    },
+    {
+      "_id": "66232864ef5cda786692def1",
+      "address": "7 Orient Wharf, 70 Wapping High Street, E1W 2NN",
+      "rentalCost": {
+        "April:2024": "1900.000"
+      },
+      "propertyName": "1B E1W - 7 Orient Wharf",
+      "tag": "1B E1W",
+      "contractStartDate": "2023-11-16",
+      "contractEndDate": "2026-11-16",
+      "directCost": {
+        "April:2024": "2201.000"
+      },
+      "group": "Full Property List",
+      "city": "London",
+      "fixedCost": 50,
+      "__v": 0
+    },
+    {
+      "_id": "66232864ef5cda786692def2",
+      "address": "1 Domecq House, 12 Dallington St, London EC1V 0BJ",
+      "rentalCost": {
+        "April:2024": "2100.000"
+      },
+      "propertyName": "1B EC1 B - 1 Domecq House",
+      "tag": "1B EC1 B",
+      "contractStartDate": "2023-11-13",
+      "contractEndDate": "2026-11-12",
+      "directCost": {
+        "April:2024": "2410.000"
+      },
+      "group": "Full Property List",
+      "city": "London",
+      "fixedCost": 50,
+      "__v": 0
+    },
+    {
+      "_id": "66232864ef5cda786692def3",
+      "address": "214 Scott Ellis Gardens, London, NW8 9RS",
+      "rentalCost": {
+        "April:2024": "3000.000"
+      },
+      "propertyName": "3B NW8 - 214 ﻿Scott Ellis Gardens",
+      "tag": "3B NW8",
+      "contractStartDate": "2023-11-06",
+      "contractEndDate": "2026-11-01",
+      "directCost": {
+        "April:2024": "3311.680"
+      },
+      "group": "Full Property List",
+      "city": "London",
+      "fixedCost": 50,
+      "__v": 0
+    },
+    {
+      "_id": "66232864ef5cda786692def4",
+      "address": "52 Emily Duncan Place, London. E7 0BB",
+      "rentalCost": {
+        "April:2024": "1700.000"
+      },
+      "propertyName": "2B E7 - 52 Emily Duncan Place",
+      "tag": "2B E7",
+      "contractStartDate": "2023-11-01",
+      "contractEndDate": "2026-11-01",
+      "directCost": {
+        "April:2024": "1896.000"
+      },
+      "group": "Full Property List",
+      "city": "London",
+      "fixedCost": 50,
+      "__v": 0
+    },
+    {
+      "_id": "66232864ef5cda786692def5",
+      "address": "10 A Carlton Mansions, 215 Randolph Avenue, Maida Vale, W9 1NP",
+      "rentalCost": {
+        "April:2024": "1500.000"
+      },
+      "propertyName": "0B W9 - 10A Carlton Mansions",
+      "tag": "0B W9",
+      "contractStartDate": "2023-10-24",
+      "contractEndDate": "2025-10-23",
+      "directCost": {
+        "April:2024": "1742.920"
+      },
+      "group": "Full Property List",
+      "city": "London",
+      "fixedCost": 50,
+      "__v": 0
+    },
+    {
+      "_id": "66232864ef5cda786692def6",
+      "address": "94b Strode road, London, NW10 2NH",
+      "rentalCost": {
+        "April:2024": "2000.000"
+      },
+      "propertyName": "2B NW10 B - 94B Strode Road",
+      "tag": "2B NW10 B",
+      "contractStartDate": "2023-10-09",
+      "contractEndDate": "2024-10-09",
+      "directCost": {
+        "April:2024": "2312.050"
+      },
+      "group": "Full Property List",
+      "city": "London",
+      "fixedCost": 50,
+      "__v": 0
+    },
+    {
+      "_id": "66232864ef5cda786692def7",
+      "address": "5c Hormead Road, London, W9 3NG",
+      "rentalCost": {
+        "April:2024": "2500.000"
+      },
+      "propertyName": "2B W9 - 5C Hormead Road",
+      "tag": "2B W9",
+      "contractStartDate": "2023-10-02",
+      "contractEndDate": "2026-10-02",
+      "directCost": {
+        "April:2024": "2822.500"
+      },
+      "group": "Full Property List",
+      "city": "London",
+      "fixedCost": 50,
+      "__v": 0
+    },
+    {
+      "_id": "66232864ef5cda786692def8",
+      "address": "Flat 22, 55-57 Holmes Road, NW5 3AN",
+      "rentalCost": {
+        "April:2024": "1800.000"
+      },
+      "propertyName": "2B NW5 - 22 Holmes Road",
+      "tag": "2B NW5",
+      "contractStartDate": "2023-09-25",
+      "contractEndDate": "2026-09-25",
+      "directCost": {
+        "April:2024": "2226.310"
+      },
+      "group": "Full Property List",
+      "city": "London",
+      "fixedCost": 50,
+      "__v": 0
+    },
+    {
+      "_id": "66232864ef5cda786692def9",
+      "address": "Flat 3, 36 Galena Road , Hammersmith W6 0LT",
+      "rentalCost": {
+        "April:2024": "2150.000"
+      },
+      "propertyName": "1B W6 - 3 Galena Road",
+      "tag": "1B W6",
+      "contractStartDate": "2023-09-21",
+      "contractEndDate": "2026-09-21",
+      "directCost": {
+        "April:2024": "2429.000"
+      },
+      "group": "Full Property List",
+      "city": "London",
+      "fixedCost": 50,
+      "__v": 0
+    },
+    {
+      "_id": "66232864ef5cda786692defa",
+      "address": "Flat 70, Redcliffe close 280a Old Brompton Rd SW5 NHZ",
+      "rentalCost": {
+        "April:2024": "3100.000"
+      },
+      "propertyName": "2B SW5 - 70 Redcliffe Close",
+      "tag": "2B SW5",
+      "contractStartDate": "2023-09-20",
+      "contractEndDate": "2026-09-20",
+      "directCost": {
+        "April:2024": "3423.000"
+      },
+      "group": "Full Property List",
+      "city": "London",
+      "fixedCost": 50,
+      "__v": 0
+    },
+    {
+      "_id": "66232864ef5cda786692defb",
+      "address": "G05 Lucienne Court, 72 Lindfield Street,\nLondon, E14 6GT",
+      "rentalCost": {
+        "April:2024": "1850.000"
+      },
+      "propertyName": "1B E3 A - G05 Lucienne Court",
+      "tag": "1B E3 A",
+      "contractStartDate": "2023-09-18",
+      "contractEndDate": "2024-09-18",
+      "directCost": {
+        "April:2024": "2137.090"
+      },
+      "group": "Full Property List",
+      "city": "London",
+      "fixedCost": 50,
+      "__v": 0
+    },
+    {
+      "_id": "66232864ef5cda786692defc",
+      "address": "Flat 3, Baltic Place, 287 Kingsland Road, N1 5AQ",
+      "rentalCost": {
+        "April:2024": "1750.000"
+      },
+      "propertyName": "1B E8 - 3 Baltic Place",
+      "tag": "1B E8",
+      "contractStartDate": "2023-09-14",
+      "contractEndDate": "2026-09-14",
+      "directCost": {
+        "April:2024": "2074.000"
+      },
+      "group": "Full Property List",
+      "city": "London",
+      "fixedCost": 50,
+      "__v": 0
+    },
+    {
+      "_id": "66232864ef5cda786692defd",
+      "address": "Flat E, 9 Hilly Fields Crescent, Brockley, London SE4 1QA",
+      "rentalCost": {
+        "April:2024": "2000.000"
+      },
+      "propertyName": "2B SE13 B - E Hilly Fields",
+      "tag": "2B SE13 B",
+      "contractStartDate": "2023-09-13",
+      "contractEndDate": "2026-09-13",
+      "directCost": {
+        "April:2024": "2321.000"
+      },
+      "group": "Full Property List",
+      "city": "London",
+      "fixedCost": 50,
+      "__v": 0
+    },
+    {
+      "_id": "66232864ef5cda786692defe",
+      "address": "32 Goldney Road Flat A London W9 2AX",
+      "rentalCost": {
+        "April:2024": "3600.000"
+      },
+      "propertyName": "3B W9 G - 32 Goldney Road",
+      "tag": "3B W9 G",
+      "contractStartDate": "2023-09-06",
+      "contractEndDate": "2025-10-24",
+      "directCost": {
+        "April:2024": "4000.140"
+      },
+      "group": "Full Property List",
+      "city": "London",
+      "fixedCost": 50,
+      "__v": 0
+    },
+    {
+      "_id": "66232864ef5cda786692deff",
+      "address": "G05 Norton House, Duke of Wellington Ave, SE18 6EY, London",
+      "rentalCost": {
+        "April:2024": "2400.000"
+      },
+      "propertyName": "2B SE18 - G05 Norton House",
+      "tag": "2B SE18",
+      "contractStartDate": "2023-09-06",
+      "contractEndDate": "2026-09-06",
+      "directCost": {
+        "April:2024": "2776.000"
+      },
+      "group": "Full Property List",
+      "city": "London",
+      "fixedCost": 50,
+      "__v": 0
+    },
+    {
+      "_id": "66232864ef5cda786692df00",
+      "address": "4 Torrent Lodge, 11, Merryweather,Place,London, SE10 8EQ",
+      "rentalCost": {
+        "April:2024": "1800.000"
+      },
+      "propertyName": "1B SE10 - 4 Torrent Lodge",
+      "tag": "1B SE10",
+      "contractStartDate": "2023-09-04",
+      "contractEndDate": "2026-09-04",
+      "directCost": {
+        "April:2024": "2101.500"
+      },
+      "group": "Full Property List",
+      "city": "London",
+      "fixedCost": 50,
+      "__v": 0
+    },
+    {
+      "_id": "66232864ef5cda786692df01",
+      "address": "Flat 48, Ivy Point, 5 Hannaford Walk,  E3 3TF",
+      "rentalCost": {
+        "April:2024": "1800.000"
+      },
+      "propertyName": "1B E3 A - 48 Ivy Point",
+      "tag": "1B E3 A",
+      "contractStartDate": "2023-09-04",
+      "contractEndDate": "2026-09-04",
+      "directCost": {
+        "April:2024": "2089.000"
+      },
+      "group": "Full Property List",
+      "city": "London",
+      "fixedCost": 50,
+      "__v": 0
+    },
+    {
+      "_id": "66232864ef5cda786692df02",
+      "address": "Flat 8, 36 Frognal, NW3 6AG",
+      "rentalCost": {
+        "April:2024": "2800.000"
+      },
+      "propertyName": "2B NW3 A - 8 Frognal",
+      "tag": "2B NW3 A",
+      "contractStartDate": "2023-08-28",
+      "contractEndDate": "2024-08-28",
+      "directCost": {
+        "April:2024": "3202.910"
+      },
+      "group": "Full Property List",
+      "city": "London",
+      "fixedCost": 50,
+      "__v": 0
+    },
+    {
+      "_id": "66232864ef5cda786692df03",
+      "address": "Flat 18 Sherborne Court, Elmers End Road, London, SE20 7SL",
+      "rentalCost": {
+        "April:2024": "1600.000"
+      },
+      "propertyName": "2B SE20 - 18 Sherborne Court",
+      "tag": "2B SE20",
+      "contractStartDate": "2023-08-21",
+      "contractEndDate": "2026-08-21",
+      "directCost": {
+        "April:2024": "1896.000"
+      },
+      "group": "Full Property List",
+      "city": "London",
+      "fixedCost": 50,
+      "__v": 0
+    },
+    {
+      "_id": "66232864ef5cda786692df04",
+      "address": "Flat 32, 9 Queensland Rd, London, N7 7FH",
+      "rentalCost": {
+        "April:2024": "2000.000"
+      },
+      "propertyName": "1B N7 - 32 Queensland Road",
+      "tag": "1B N7",
+      "contractStartDate": "2023-08-15",
+      "contractEndDate": "2026-08-15",
+      "directCost": {
+        "April:2024": "2324.200"
+      },
+      "group": "Full Property List",
+      "city": "London",
+      "fixedCost": 50,
+      "__v": 0
+    },
+    {
+      "_id": "66232864ef5cda786692df05",
+      "address": "Flat 3, 21 Dingley Road,  EC1V 8BW, London",
+      "rentalCost": {
+        "April:2024": "3897.000"
+      },
+      "propertyName": "3B EC1 - 3 Dingley Road",
+      "tag": "3B EC1",
+      "contractStartDate": "2023-08-08",
+      "contractEndDate": "2025-08-08",
+      "directCost": {
+        "April:2024": "4292.000"
+      },
+      "group": "Full Property List",
+      "city": "London",
+      "fixedCost": 50,
+      "__v": 0
+    },
+    {
+      "_id": "66232864ef5cda786692df06",
+      "address": "14A Umfreville Road, N4 1SB, London",
+      "rentalCost": {
+        "April:2024": "2400.000"
+      },
+      "propertyName": "2B N4 - 14A Umfreville Road",
+      "tag": "2B N4",
+      "contractStartDate": "2023-08-07",
+      "contractEndDate": "2024-08-07",
+      "directCost": {
+        "April:2024": "2726.000"
+      },
+      "group": "Full Property List",
+      "city": "London",
+      "fixedCost": 50,
+      "__v": 0
+    },
+    {
+      "_id": "66232864ef5cda786692df07",
+      "address": "13-15 Upland Road, East Dulwich, London, UK SE22 9EE",
+      "rentalCost": {
+        "April:2024": "2600.000"
+      },
+      "propertyName": "2B SE22 G - Upland Road",
+      "tag": "2B SE22 G",
+      "contractStartDate": "2023-08-06",
+      "contractEndDate": "2026-08-06",
+      "directCost": {
+        "April:2024": "2896.000"
+      },
+      "group": "Full Property List",
+      "city": "London",
+      "fixedCost": 50,
+      "__v": 0
+    },
+    {
+      "_id": "66232864ef5cda786692df08",
+      "address": "219a queenstown road, london, SW8 3QD",
+      "rentalCost": {
+        "April:2024": "2400.000"
+      },
+      "propertyName": "2B SW8 G - 219A Queenstown Road",
+      "tag": "2B SW8 G",
+      "contractStartDate": "2023-08-04",
+      "contractEndDate": "2025-08-04",
+      "directCost": {
+        "April:2024": "2650.000"
+      },
+      "group": "Full Property List",
+      "city": "London",
+      "fixedCost": 50,
+      "__v": 0
+    },
+    {
+      "_id": "66232864ef5cda786692df09",
+      "address": "27 Yeldham Road, London, W6 8JF",
+      "rentalCost": {
+        "April:2024": "4000.000"
+      },
+      "propertyName": "5B W6 - 27 Yeldham",
+      "tag": "5B W6",
+      "contractStartDate": "2023-08-03",
+      "contractEndDate": "2026-08-03",
+      "directCost": {
+        "April:2024": "4387.390"
+      },
+      "group": "Full Property List",
+      "city": "London",
+      "fixedCost": 50,
+      "__v": 0
+    },
+    {
+      "_id": "66232864ef5cda786692df0a",
+      "address": "6 Charman House, 2, Bristowe Close, Brixton SW2 2YA",
+      "rentalCost": {
+        "April:2024": "2000.000"
+      },
+      "propertyName": "2B SW2 - 6 Charman House",
+      "tag": "2B SW2",
+      "contractStartDate": "2023-08-02",
+      "contractEndDate": "2026-08-02",
+      "directCost": {
+        "April:2024": "2354.830"
+      },
+      "group": "Full Property List",
+      "city": "London",
+      "fixedCost": 50,
+      "__v": 0
+    },
+    {
+      "_id": "66232864ef5cda786692df0b",
+      "address": "13b Northbourne Road, Clapham, London SW4 7DW",
+      "rentalCost": {
+        "April:2024": "2300.000"
+      },
+      "propertyName": "2B SW4 G - B Northbourne Road",
+      "tag": "2B SW4 G",
+      "contractStartDate": "2023-08-02",
+      "contractEndDate": "2026-08-02",
+      "directCost": {
+        "April:2024": "2614.170"
+      },
+      "group": "Full Property List",
+      "city": "London",
+      "fixedCost": 50,
+      "__v": 0
+    },
+    {
+      "_id": "66232864ef5cda786692df0c",
+      "address": "23 Upper Blantyre Walk Worlds End Estate London SW10 0DX",
+      "rentalCost": {
+        "April:2024": "3800.000"
+      },
+      "propertyName": "4B SW10 - 23 Upper Blantyre",
+      "tag": "4B SW10",
+      "contractStartDate": "2023-08-01",
+      "contractEndDate": "2026-08-01",
+      "directCost": {
+        "April:2024": "4116.910"
+      },
+      "group": "Full Property List",
+      "city": "London",
+      "fixedCost": 50,
+      "__v": 0
+    },
+    {
+      "_id": "66232864ef5cda786692df0d",
+      "address": "30 Slate House, 11 Keymar Place, E14 7QZ",
+      "rentalCost": {
+        "April:2024": "2500.000"
+      },
+      "propertyName": "3B E14 - 30 Slate House",
+      "tag": "3B E14",
+      "contractStartDate": "2023-07-24",
+      "contractEndDate": "2025-07-24",
+      "directCost": {
+        "April:2024": "2801.000"
+      },
+      "group": "Full Property List",
+      "city": "London",
+      "fixedCost": 50,
+      "__v": 0
+    },
+    {
+      "_id": "66232864ef5cda786692df0e",
+      "address": "Flat 4D, 9 Leinster Gardens, London W2 6DP",
+      "rentalCost": {
+        "April:2024": "1000.000"
+      },
+      "propertyName": "0B W2 R - 4D Leinster Gardens",
+      "tag": "0B W2 R",
+      "contractStartDate": "2023-07-13",
+      "contractEndDate": "2026-07-13",
+      "directCost": {
+        "April:2024": "1252.670"
+      },
+      "group": "Full Property List",
+      "city": "London",
+      "fixedCost": 50,
+      "__v": 0
+    },
+    {
+      "_id": "66232864ef5cda786692df0f",
+      "address": "87 Nightingale house, 50 Thomas More street, London, E1W 1UB",
+      "rentalCost": {
+        "April:2024": "2100.000"
+      },
+      "propertyName": "1B E1W - 87 Nightingale House",
+      "tag": "1B E1W",
+      "contractStartDate": "2023-07-04",
+      "contractEndDate": "2026-07-04",
+      "directCost": {
+        "April:2024": "2393.080"
+      },
+      "group": "Full Property List",
+      "city": "London",
+      "fixedCost": 50,
+      "__v": 0
+    },
+    {
+      "_id": "66232864ef5cda786692df10",
+      "address": "Flat 21, Wellington Buildings, Wellington Way, London E3 4NA",
+      "rentalCost": {
+        "April:2024": "2000.000"
+      },
+      "propertyName": "2B E3 B - 21 Wellington Buildings",
+      "tag": "2B E3 B",
+      "contractStartDate": "2023-07-04",
+      "contractEndDate": "2026-07-04",
+      "directCost": {
+        "April:2024": "2293.080"
+      },
+      "group": "Full Property List",
+      "city": "London",
+      "fixedCost": 50,
+      "__v": 0
+    },
+    {
+      "_id": "66232864ef5cda786692df11",
+      "address": "Flat 21, John Wetherby Court West, 16 High Street, Bow, E15 2PP",
+      "rentalCost": {
+        "April:2024": "1800.000"
+      },
+      "propertyName": "2B E15 - 21 John Wetherby",
+      "tag": "2B E15",
+      "contractStartDate": "2023-07-03",
+      "contractEndDate": "2026-07-03",
+      "directCost": {
+        "April:2024": "2141.660"
+      },
+      "group": "Full Property List",
+      "city": "London",
+      "fixedCost": 50,
+      "__v": 0
+    },
+    {
+      "_id": "66232864ef5cda786692df12",
+      "address": "11 Beacon Gate ,Nunhead NewCross ,London SE14 5UB",
+      "rentalCost": {
+        "April:2024": "1850.000"
+      },
+      "propertyName": "2B SE14 - 11 Beacon Gate",
+      "tag": "2B SE14",
+      "contractStartDate": "2023-06-22",
+      "contractEndDate": "2026-06-22",
+      "directCost": {
+        "April:2024": "2208.660"
+      },
+      "group": "Full Property List",
+      "city": "London",
+      "fixedCost": 50,
+      "__v": 0
+    },
+    {
+      "_id": "66232864ef5cda786692df13",
+      "address": "Flat 5, 21 Dingley Road,  EC1V 8BW, London",
+      "rentalCost": {
+        "April:2024": "2200.000"
+      },
+      "propertyName": "1B EC1 A - 5 Dingley",
+      "tag": "1B EC1 A",
+      "contractStartDate": "2023-06-21",
+      "contractEndDate": "2025-06-21",
+      "directCost": {
+        "April:2024": "2560.800"
+      },
+      "group": "Full Property List",
+      "city": "London",
+      "fixedCost": 50,
+      "__v": 0
+    },
+    {
+      "_id": "66232864ef5cda786692df14",
+      "address": "20a Furness Road, London, NW10 4QD",
+      "rentalCost": {
+        "April:2024": "2650.000"
+      },
+      "propertyName": "4B NW10 G - 20A Furness",
+      "tag": "4B NW10 G",
+      "contractStartDate": "2023-06-19",
+      "contractEndDate": "2025-05-19",
+      "directCost": {
+        "April:2024": "2973.600"
+      },
+      "group": "Full Property List",
+      "city": "London",
+      "fixedCost": 50,
+      "__v": 0
+    },
+    {
+      "_id": "66232864ef5cda786692df15",
+      "address": "Flat 2, Fairbanks House Samuelson Place TW7 4FL",
+      "rentalCost": {
+        "April:2024": "1550.000"
+      },
+      "propertyName": "1B TW7 - 2 Fairbanks House",
+      "tag": "1B TW7",
+      "contractStartDate": "2023-06-16",
+      "contractEndDate": "2027-06-30",
+      "directCost": {
+        "April:2024": "1890.500"
+      },
+      "group": "Full Property List",
+      "city": "London",
+      "fixedCost": 50,
+      "__v": 0
+    },
+    {
+      "_id": "66232864ef5cda786692df16",
+      "address": "Flat 4, 2 Wellesley Terrace, London, N1 7NA",
+      "rentalCost": {
+        "April:2024": "2450.000"
+      },
+      "propertyName": "2B N1 B - 4 Wellesley Terrace",
+      "tag": "2B N1 B",
+      "contractStartDate": "2023-06-16",
+      "contractEndDate": "2024-06-16",
+      "directCost": {
+        "April:2024": "2876.500"
+      },
+      "group": "Full Property List",
+      "city": "London",
+      "fixedCost": 50,
+      "__v": 0
+    },
+    {
+      "_id": "66232864ef5cda786692df17",
+      "address": "Flat 2, 22a Castlehaven Road, London NW1 8RA",
+      "rentalCost": {
+        "April:2024": "2500.000"
+      },
+      "propertyName": "2B NW1 B - 2 Castlehaven Road",
+      "tag": "2B NW1 B",
+      "contractStartDate": "2023-07-31",
+      "contractEndDate": "2026-07-31",
+      "directCost": {
+        "April:2024": "2804.150"
+      },
+      "group": "Full Property List",
+      "city": "London",
+      "fixedCost": 50,
+      "__v": 0
+    },
+    {
+      "_id": "66232864ef5cda786692df18",
+      "address": "28 Annesley Walk, London N19 5DR",
+      "rentalCost": {
+        "April:2024": "1800.000"
+      },
+      "propertyName": "1B N19 - 28 Annesley",
+      "tag": "1B N19",
+      "contractStartDate": "2023-06-14",
+      "contractEndDate": "2026-06-13",
+      "directCost": {
+        "April:2024": "2127.500"
+      },
+      "group": "Full Property List",
+      "city": "London",
+      "fixedCost": 50,
+      "__v": 0
+    },
+    {
+      "_id": "66232864ef5cda786692df19",
+      "address": "Flat 44, Falcondale Court, Lakeside Drive, Park Royal, London, NW10 7FR",
+      "rentalCost": {
+        "April:2024": "2000.000"
+      },
+      "propertyName": "2B NW10 A - 44 Falcondale Court",
+      "tag": "2B NW10 A",
+      "contractStartDate": "2023-06-12",
+      "contractEndDate": "2025-06-12",
+      "directCost": {
+        "April:2024": "2369.000"
+      },
+      "group": "Full Property List",
+      "city": "London",
+      "fixedCost": 50,
+      "__v": 0
+    },
+    {
+      "_id": "66232864ef5cda786692df1a",
+      "address": "Flat 152, Andrews House Barbican EC2Y 8BA",
+      "rentalCost": {
+        "April:2024": "2400.000"
+      },
+      "propertyName": "2B EC1 - 152 Andrews House",
+      "tag": "2B EC1",
+      "contractStartDate": "2023-06-09",
+      "contractEndDate": "2025-06-09",
+      "directCost": {
+        "April:2024": "2715.410"
+      },
+      "group": "Full Property List",
+      "city": "London",
+      "fixedCost": 50,
+      "__v": 0
+    },
+    {
+      "_id": "66232864ef5cda786692df1b",
+      "address": "16D Sutherland St, Pimlico, SW1V 4LA",
+      "rentalCost": {
+        "April:2024": "2600.000"
+      },
+      "propertyName": "1B SW1V B - 16 Sutherland",
+      "tag": "1B SW1V B",
+      "contractStartDate": "2023-06-08",
+      "contractEndDate": null,
+      "directCost": {
+        "April:2024": "2869.000"
+      },
+      "group": "Full Property List",
+      "city": "London",
+      "fixedCost": 50,
+      "__v": 0
+    },
+    {
+      "_id": "66232864ef5cda786692df1c",
+      "address": "19C Heathfield Road, Acton, W3 8EH",
+      "rentalCost": {
+        "April:2024": "2200.000"
+      },
+      "propertyName": "2B W3 B - 19C Heathfield",
+      "tag": "2B W3 B",
+      "contractStartDate": "2023-06-08",
+      "contractEndDate": "2026-06-08",
+      "directCost": {
+        "April:2024": "2544.750"
+      },
+      "group": "Full Property List",
+      "city": "London",
+      "fixedCost": 50,
+      "__v": 0
+    },
+    {
+      "_id": "66232864ef5cda786692df1d",
+      "address": "Flat 1, 265a Wick Road, London, E9 5DG",
+      "rentalCost": {
+        "April:2024": "1700.000"
+      },
+      "propertyName": "1B E9 C - 265a Wick Road",
+      "tag": "1B E9 C",
+      "contractStartDate": "2023-06-07",
+      "contractEndDate": "2026-06-07",
+      "directCost": {
+        "April:2024": "2032.000"
+      },
+      "group": "Full Property List",
+      "city": "London",
+      "fixedCost": 50,
+      "__v": 0
+    },
+    {
+      "_id": "66232864ef5cda786692df1e",
+      "address": "Flat 911, Denison House, 20 Lanterns Way, London, E14 9JN",
+      "rentalCost": {
+        "April:2024": "1850.000"
+      },
+      "propertyName": "1B E14 - 911 Denison House",
+      "tag": "1B E14",
+      "contractStartDate": "2023-06-05",
+      "contractEndDate": "2026-06-04",
+      "directCost": {
+        "April:2024": "2158.000"
+      },
+      "group": "Full Property List",
+      "city": "London",
+      "fixedCost": 50,
+      "__v": 0
+    },
+    {
+      "_id": "66232864ef5cda786692df1f",
+      "address": "Flat 6, Kelmscott House, 7 abbey Road, SW19 2LZ",
+      "rentalCost": {
+        "April:2024": "1650.000"
+      },
+      "propertyName": "1B SW19 - 6 Kelmscott House",
+      "tag": "1B SW19",
+      "contractStartDate": "2023-06-01",
+      "contractEndDate": "2026-06-01",
+      "directCost": {
+        "April:2024": "1957.920"
+      },
+      "group": "Full Property List",
+      "city": "London",
+      "fixedCost": 50,
+      "__v": 0
+    },
+    {
+      "_id": "66232864ef5cda786692df20",
+      "address": "8 Brendon Avenue, London, NW10 1SS",
+      "rentalCost": {
+        "April:2024": "1600.000"
+      },
+      "propertyName": "1B NW10 - 8 Brendon Avenue",
+      "tag": "1B NW10",
+      "contractStartDate": "2023-05-24",
+      "contractEndDate": "2026-05-24",
+      "directCost": {
+        "April:2024": "1918.000"
+      },
+      "group": "Full Property List",
+      "city": "London",
+      "fixedCost": 50,
+      "__v": 0
+    },
+    {
+      "_id": "66232864ef5cda786692df21",
+      "address": "Flat 1127, 19 St george wharf SW8 2FG, London",
+      "rentalCost": {
+        "April:2024": "3540.000"
+      },
+      "propertyName": "2B SW8 B - 1127 St George Wharf",
+      "tag": "2B SW8 B",
+      "contractStartDate": "2023-05-22",
+      "contractEndDate": "2024-05-22",
+      "directCost": {
+        "April:2024": "3963.000"
+      },
+      "group": "Full Property List",
+      "city": "London",
+      "fixedCost": 50,
+      "__v": 0
+    },
+    {
+      "_id": "66232864ef5cda786692df22",
+      "address": "Flat 17, 4 Leigham Court Road, London SW16 2PG",
+      "rentalCost": {
+        "April:2024": "2050.000"
+      },
+      "propertyName": "1B SW16 - 17 Leigham Court Rd",
+      "tag": "1B SW16",
+      "contractStartDate": "2023-05-22",
+      "contractEndDate": "2025-05-22",
+      "directCost": {
+        "April:2024": "2344.000"
+      },
+      "group": "Full Property List",
+      "city": "London",
+      "fixedCost": 50,
+      "__v": 0
+    },
+    {
+      "_id": "66232864ef5cda786692df23",
+      "address": "17 Morris Gardens, London SW18 5HL",
+      "rentalCost": {
+        "April:2024": "687.500"
+      },
+      "propertyName": "0B SW18 R - 1 Morris Gardens",
+      "tag": "0B SW18 R",
+      "contractStartDate": "2023-05-19",
+      "contractEndDate": "2026-05-19",
+      "directCost": {
+        "April:2024": "758.043"
+      },
+      "group": "Full Property List",
+      "city": "London",
+      "fixedCost": 12.5,
+      "__v": 0
+    },
+    {
+      "_id": "66232864ef5cda786692df24",
+      "address": "17 Morris Gardens, London SW18 5HL (copy)",
+      "rentalCost": {
+        "April:2024": "687.500"
+      },
+      "propertyName": "0B SW18 R - 2 Morris Gardens",
+      "tag": "0B SW18 R",
+      "contractStartDate": "2023-05-19",
+      "contractEndDate": "2026-05-19",
+      "directCost": {
+        "April:2024": "758.043"
+      },
+      "group": "Full Property List",
+      "city": "London",
+      "fixedCost": 12.5,
+      "__v": 0
+    },
+    {
+      "_id": "66232864ef5cda786692df25",
+      "address": "17 Morris Gardens, London SW18 5HL (copy)",
+      "rentalCost": {
+        "April:2024": "687.500"
+      },
+      "propertyName": "0B SW18 R - 3 Morris Gardens",
+      "tag": "0B SW18 R",
+      "contractStartDate": "2023-05-19",
+      "contractEndDate": "2026-05-19",
+      "directCost": {
+        "April:2024": "758.043"
+      },
+      "group": "Full Property List",
+      "city": "London",
+      "fixedCost": 12.5,
+      "__v": 0
+    },
+    {
+      "_id": "66232864ef5cda786692df26",
+      "address": "17 Morris Gardens, London SW18 5HL (copy) (copy)",
+      "rentalCost": {
+        "April:2024": "687.500"
+      },
+      "propertyName": "0B SW18 R - 4 Morris Gardens",
+      "tag": "0B SW18 R",
+      "contractStartDate": "2023-05-19",
+      "contractEndDate": "2026-05-19",
+      "directCost": {
+        "April:2024": "758.043"
+      },
+      "group": "Full Property List",
+      "city": "London",
+      "fixedCost": 12.5,
+      "__v": 0
+    },
+    {
+      "_id": "66232864ef5cda786692df27",
+      "address": "Flat 2, 5 Belsize Avenue, NW3 4BL",
+      "rentalCost": {
+        "April:2024": "2100.000"
+      },
+      "propertyName": "1B NW3 - 2 Belsize Avenue",
+      "tag": "1B NW3",
+      "contractStartDate": "2023-05-17",
+      "contractEndDate": "2026-05-17",
+      "directCost": {
+        "April:2024": "2505.000"
+      },
+      "group": "Full Property List",
+      "city": "London",
+      "fixedCost": 50,
+      "__v": 0
+    },
+    {
+      "_id": "66232864ef5cda786692df28",
+      "address": "Flat 6, Sherborne Court, Elmers End Road, London SE20 7SL",
+      "rentalCost": {
+        "April:2024": "1550.000"
+      },
+      "propertyName": "2B SE20 - 6 Sherborne Court",
+      "tag": "2B SE20",
+      "contractStartDate": "2023-05-16",
+      "contractEndDate": "2026-05-16",
+      "directCost": {
+        "April:2024": "1847.620"
+      },
+      "group": "Full Property List",
+      "city": "London",
+      "fixedCost": 50,
+      "__v": 0
+    },
+    {
+      "_id": "66232864ef5cda786692df29",
+      "address": "Flat 67, Dundas Court, 29, Dowells Street, London, Greenwich, Greater London, SE10",
+      "rentalCost": {
+        "April:2024": "1700.000"
+      },
+      "propertyName": "1B SE10 - 67 Dundas Court",
+      "tag": "1B SE10",
+      "contractStartDate": "2023-05-10",
+      "contractEndDate": "2026-05-10",
+      "directCost": {
+        "April:2024": "2028.000"
+      },
+      "group": "Full Property List",
+      "city": "London",
+      "fixedCost": 50,
+      "__v": 0
+    },
+    {
+      "_id": "66232864ef5cda786692df2a",
+      "address": "11 Priory Lodge, Castlebar Road, Ealing Broadway, London , W52DE, UK",
+      "rentalCost": {
+        "April:2024": "2200.000"
+      },
+      "propertyName": "2B W5 - 11 Priory Lodge",
+      "tag": "2B W5",
+      "contractStartDate": "2023-05-08",
+      "contractEndDate": "2025-05-08",
+      "directCost": {
+        "April:2024": "2514.750"
+      },
+      "group": "Full Property List",
+      "city": "London",
+      "fixedCost": 50,
+      "__v": 0
+    },
+    {
+      "_id": "66232864ef5cda786692df2b",
+      "address": "Flat 19, Haggerston Studios, 284 Kingsland Rpd, London E8 4DN",
+      "rentalCost": {
+        "April:2024": "2100.000"
+      },
+      "propertyName": "2B E8 B - 19 Haggerston Studios",
+      "tag": "2B E8 B",
+      "contractStartDate": "2023-05-08",
+      "contractEndDate": "2026-05-08",
+      "directCost": {
+        "April:2024": "2407.000"
+      },
+      "group": "Full Property List",
+      "city": "London",
+      "fixedCost": 50,
+      "__v": 0
+    },
+    {
+      "_id": "66232864ef5cda786692df2c",
+      "address": "33 Englewood Rd, London SW12 9PA",
+      "rentalCost": {
+        "April:2024": "5000.000"
+      },
+      "propertyName": "5B SW12 - 33 Englewood Rd",
+      "tag": "5B SW12",
+      "contractStartDate": "2023-05-04",
+      "contractEndDate": "2026-05-04",
+      "directCost": {
+        "April:2024": "5540.210"
+      },
+      "group": "Full Property List",
+      "city": "London",
+      "fixedCost": 50,
+      "__v": 0
+    },
+    {
+      "_id": "66232864ef5cda786692df2d",
+      "address": "14 Holness Rd, Stratford, London, E15 4EN",
+      "rentalCost": {
+        "April:2024": "2800.000"
+      },
+      "propertyName": "3B E15 - 14 Holness Rd",
+      "tag": "3B E15",
+      "contractStartDate": "2023-05-01",
+      "contractEndDate": "2024-05-01",
+      "directCost": {
+        "April:2024": "3097.000"
+      },
+      "group": "Full Property List",
+      "city": "London",
+      "fixedCost": 50,
+      "__v": 0
+    },
+    {
+      "_id": "66232864ef5cda786692df2e",
+      "address": "13 Goldcrest Building, 46 Newnton Close, London N4 2GG",
+      "rentalCost": {
+        "April:2024": "3300.000"
+      },
+      "propertyName": "3B N4 - 13 Goldcrest",
+      "tag": "3B N4",
+      "contractStartDate": "2023-04-21",
+      "contractEndDate": "2025-04-21",
+      "directCost": {
+        "April:2024": "3612.000"
+      },
+      "group": "Full Property List",
+      "city": "London",
+      "fixedCost": 50,
+      "__v": 0
+    },
+    {
+      "_id": "66232864ef5cda786692df2f",
+      "address": "24 Discovery House, Juniper Drive, SW18 1UY, London",
+      "rentalCost": {
+        "April:2024": "1600.000"
+      },
+      "propertyName": "0B SW18 A - 24 Discovery House",
+      "tag": "0B SW18 A",
+      "contractStartDate": "2023-04-19",
+      "contractEndDate": "2025-04-19",
+      "directCost": {
+        "April:2024": "1812.670"
+      },
+      "group": "Full Property List",
+      "city": "London",
+      "fixedCost": 50,
+      "__v": 0
+    },
+    {
+      "_id": "66232864ef5cda786692df30",
+      "address": "2 Midmoor road, Balham, sw12 0EN",
+      "rentalCost": {
+        "April:2024": "2700.000"
+      },
+      "propertyName": "2B SW12 - 2 Midmoor Road",
+      "tag": "2B SW12",
+      "contractStartDate": "2023-04-17",
+      "contractEndDate": "2026-06-09",
+      "directCost": {
+        "April:2024": "3052.880"
+      },
+      "group": "Full Property List",
+      "city": "London",
+      "fixedCost": 50,
+      "__v": 0
+    },
+    {
+      "_id": "66232864ef5cda786692df31",
+      "address": "3i Earlsfield Road London SW18 3DB",
+      "rentalCost": {
+        "April:2024": "1600.000"
+      },
+      "propertyName": "1B SW18 B - 3I Earlsfield Road",
+      "tag": "1B SW18 B",
+      "contractStartDate": "2023-04-03",
+      "contractEndDate": "2026-04-03",
+      "directCost": {
+        "April:2024": "1856.000"
+      },
+      "group": "Full Property List",
+      "city": "London",
+      "fixedCost": 50,
+      "__v": 0
+    },
+    {
+      "_id": "66232864ef5cda786692df32",
+      "address": "Flat 401, Forbes Apartment, 6 Brigadier Walk, London, SE18 6NZ",
+      "rentalCost": {
+        "April:2024": "1880.000"
+      },
+      "propertyName": "1B SE18 - 401 Forbes Apartment",
+      "tag": "1B SE18",
+      "contractStartDate": "2023-03-29",
+      "contractEndDate": "2026-03-29",
+      "directCost": {
+        "April:2024": "2136.000"
+      },
+      "group": "Full Property List",
+      "city": "London",
+      "fixedCost": 50,
+      "__v": 0
+    },
+    {
+      "_id": "66232864ef5cda786692df33",
+      "address": "Flat 82, Bowsprit Point, 167 Westferry Road, London E14 8NU",
+      "rentalCost": {
+        "April:2024": "2421.000"
+      },
+      "propertyName": "2B E14 B - 82 Bowsprit Point",
+      "tag": "2B E14 B",
+      "contractStartDate": "2023-03-27",
+      "contractEndDate": "2026-03-27",
+      "directCost": {
+        "April:2024": "2731.970"
+      },
+      "group": "Full Property List",
+      "city": "London",
+      "fixedCost": 50,
+      "__v": 0
+    },
+    {
+      "_id": "66232864ef5cda786692df34",
+      "address": "82B Carlingford Road First Floor Flat N15 3EH London",
+      "rentalCost": {
+        "April:2024": "2400.000"
+      },
+      "propertyName": "4B N15 - 82B Carlingford Road",
+      "tag": "4B N15",
+      "contractStartDate": "2023-03-27",
+      "contractEndDate": "2026-03-27",
+      "directCost": {
+        "April:2024": "2745.250"
+      },
+      "group": "Full Property List",
+      "city": "London",
+      "fixedCost": 50,
+      "__v": 0
+    },
+    {
+      "_id": "66232864ef5cda786692df35",
+      "address": "Apartment 1, Dorset House,18 Ram Street, London, SW18 1UB",
+      "rentalCost": {
+        "April:2024": "1900.000"
+      },
+      "propertyName": "1B SW18 A - 1 Dorset House",
+      "tag": "1B SW18 A",
+      "contractStartDate": "2023-03-24",
+      "contractEndDate": null,
+      "directCost": {
+        "April:2024": "2143.160"
+      },
+      "group": "Full Property List",
+      "city": "London",
+      "fixedCost": 50,
+      "__v": 0
+    },
+    {
+      "_id": "66232864ef5cda786692df36",
+      "address": "28 wisley house, Rampayne street, London, SW1V2QS",
+      "rentalCost": {
+        "April:2024": "1700.000"
+      },
+      "propertyName": "1B SW1V B - 28 Wisley House",
+      "tag": "1B SW1V B",
+      "contractStartDate": "2023-03-22",
+      "contractEndDate": "2026-03-22",
+      "directCost": {
+        "April:2024": "1937.670"
+      },
+      "group": "Full Property List",
+      "city": "London",
+      "fixedCost": 50,
+      "__v": 0
+    },
+    {
+      "_id": "66232864ef5cda786692df37",
+      "address": "Flat B,30 Ferndale Avenue, Walthamstow, London, E17 9EH",
+      "rentalCost": {
+        "April:2024": "1900.000"
+      },
+      "propertyName": "2B E17 - 30 Ferndale Avenue",
+      "tag": "2B E17",
+      "contractStartDate": "2023-03-20",
+      "contractEndDate": "2026-03-20",
+      "directCost": {
+        "April:2024": "2194.790"
+      },
+      "group": "Full Property List",
+      "city": "London",
+      "fixedCost": 50,
+      "__v": 0
+    },
+    {
+      "_id": "66232864ef5cda786692df38",
+      "address": "44 Lenthall House, London, SW1V 3BB",
+      "rentalCost": {
+        "April:2024": "1500.000"
+      },
+      "propertyName": "0B SW1V - 44 Lenthall House",
+      "tag": "0B SW1V",
+      "contractStartDate": "2023-03-13",
+      "contractEndDate": "2026-03-13",
+      "directCost": {
+        "April:2024": "1681.660"
+      },
+      "group": "Full Property List",
+      "city": "London",
+      "fixedCost": 50,
+      "__v": 0
+    },
+    {
+      "_id": "66232864ef5cda786692df39",
+      "address": "Flat 74, Biggs Square, Felstead Street, London E9 5DT",
+      "rentalCost": {
+        "April:2024": "1800.000"
+      },
+      "propertyName": "1B E9 B - 74 Biggs Square",
+      "tag": "1B E9 B",
+      "contractStartDate": "2023-03-13",
+      "contractEndDate": "2026-03-13",
+      "directCost": {
+        "April:2024": "2081.000"
+      },
+      "group": "Full Property List",
+      "city": "London",
+      "fixedCost": 50,
+      "__v": 0
+    },
+    {
+      "_id": "66232864ef5cda786692df3a",
+      "address": "168 Reed House , 21 Durnsford Road, Wimbledon, SW19 8GY",
+      "rentalCost": {
+        "April:2024": "2000.000"
+      },
+      "propertyName": "2B SW19 - 168 Reed House",
+      "tag": "2B SW19",
+      "contractStartDate": "2023-03-02",
+      "contractEndDate": "2026-03-01",
+      "directCost": {
+        "April:2024": "2443.000"
+      },
+      "group": "Full Property List",
+      "city": "London",
+      "fixedCost": 50,
+      "__v": 0
+    },
+    {
+      "_id": "66232864ef5cda786692df3b",
+      "address": "Flat 6, 1 Rosemont Road, Acton W3 9LT",
+      "rentalCost": {
+        "April:2024": "2000.000"
+      },
+      "propertyName": "2B W3 C - 6 Rosemont Road",
+      "tag": "2B W3 C",
+      "contractStartDate": "2023-03-01",
+      "contractEndDate": "2026-03-01",
+      "directCost": {
+        "April:2024": "2368.360"
+      },
+      "group": "Full Property List",
+      "city": "London",
+      "fixedCost": 50,
+      "__v": 0
+    },
+    {
+      "_id": "66232864ef5cda786692df3c",
+      "address": "Flat 73, Goulden House, Bullen street, SW11 3HQ, London",
+      "rentalCost": {
+        "April:2024": "1450.000"
+      },
+      "propertyName": "1B SW11 - 73 Goulden House",
+      "tag": "1B SW11",
+      "contractStartDate": "2023-02-27",
+      "contractEndDate": "2026-02-27",
+      "directCost": {
+        "April:2024": "1662.000"
+      },
+      "group": "Full Property List",
+      "city": "London",
+      "fixedCost": 50,
+      "__v": 0
+    },
+    {
+      "_id": "66232864ef5cda786692df3d",
+      "address": "Flat 4, Nursery View38 Schoolgate Drive, Morden, SM4 5DH House, 38 Schoolgate Drive, Morden, SM4 5DH",
+      "rentalCost": {
+        "April:2024": "1597.000"
+      },
+      "propertyName": "2B SM4 - 4 Nursery View House",
+      "tag": "2B SM4",
+      "contractStartDate": "2023-02-24",
+      "contractEndDate": "2027-01-01",
+      "directCost": {
+        "April:2024": "1897.970"
+      },
+      "group": "Full Property List",
+      "city": "London",
+      "fixedCost": 50,
+      "__v": 0
+    },
+    {
+      "_id": "66232864ef5cda786692df3e",
+      "address": "Flat 209, Compass House, Smuggler’s Way, SW18 1DQ, London, UK",
+      "rentalCost": {
+        "April:2024": "2200.000"
+      },
+      "propertyName": "2B SW18 B - 209 Compass House",
+      "tag": "2B SW18 B",
+      "contractStartDate": "2023-02-23",
+      "contractEndDate": "2026-02-23",
+      "directCost": {
+        "April:2024": "2483.000"
+      },
+      "group": "Full Property List",
+      "city": "London",
+      "fixedCost": 50,
+      "__v": 0
+    },
+    {
+      "_id": "66232864ef5cda786692df3f",
+      "address": "Flat 40, Gaumont Tower, Dalston Square, London,E8 3BQ",
+      "rentalCost": {
+        "April:2024": "2400.000"
+      },
+      "propertyName": "2B E8 B - 40 Gaumont Tower",
+      "tag": "2B E8 B",
+      "contractStartDate": "2023-02-15",
+      "contractEndDate": "2026-03-15",
+      "directCost": {
+        "April:2024": "2753.770"
+      },
+      "group": "Full Property List",
+      "city": "London",
+      "fixedCost": 50,
+      "__v": 0
+    },
+    {
+      "_id": "66232864ef5cda786692df40",
+      "address": "Flat 6, 25 Brook Avenue Wembley Park HA9 8PH",
+      "rentalCost": {
+        "April:2024": "2300.000"
+      },
+      "propertyName": "2B HA A - 6 Brook Avenue",
+      "tag": "2B HA A",
+      "contractStartDate": "2023-02-01",
+      "contractEndDate": "2024-02-01",
+      "directCost": {
+        "April:2024": "2599.250"
+      },
+      "group": "Full Property List",
+      "city": "London",
+      "fixedCost": 50,
+      "__v": 0
+    },
+    {
+      "_id": "66232864ef5cda786692df41",
+      "address": "702 Alboran Apartments, One Seven Sea Gardens, E3 3GU",
+      "rentalCost": {
+        "April:2024": "1795.000"
+      },
+      "propertyName": "1B E3 B - 702 Alboran Apartments",
+      "tag": "1B E3 B",
+      "contractStartDate": "2023-01-30",
+      "contractEndDate": "2026-01-30",
+      "directCost": {
+        "April:2024": "2049.000"
+      },
+      "group": "Full Property List",
+      "city": "London",
+      "fixedCost": 50,
+      "__v": 0
+    },
+    {
+      "_id": "66232864ef5cda786692df42",
+      "address": "Flat 901, Stanley Turner House, 32 Barry Blandford Way, London, E33XD",
+      "rentalCost": {
+        "April:2024": "1950.000"
+      },
+      "propertyName": "2B E3 A - 901 Stanley Turner",
+      "tag": "2B E3 A",
+      "contractStartDate": "2023-01-29",
+      "contractEndDate": "2025-01-29",
+      "directCost": {
+        "April:2024": "2337.000"
+      },
+      "group": "Full Property List",
+      "city": "London",
+      "fixedCost": 50,
+      "__v": 0
+    },
+    {
+      "_id": "66232864ef5cda786692df43",
+      "address": "109 Friary Road ,Peckham, SE151PY",
+      "rentalCost": {
+        "April:2024": "1300.000"
+      },
+      "propertyName": "1B SE15 - 109 Friary Road",
+      "tag": "1B SE15",
+      "contractStartDate": "2023-01-28",
+      "contractEndDate": "2026-01-26",
+      "directCost": {
+        "April:2024": "1599.000"
+      },
+      "group": "Full Property List",
+      "city": "London",
+      "fixedCost": 50,
+      "__v": 0
+    },
+    {
+      "_id": "66232864ef5cda786692df44",
+      "address": "Flat 39, Princes Court, SE16 7TD, London, UK",
+      "rentalCost": {
+        "April:2024": "2500.000"
+      },
+      "propertyName": "2B SE16 B - 39 Princes Court",
+      "tag": "2B SE16 B",
+      "contractStartDate": "2023-01-23",
+      "contractEndDate": "2024-01-22",
+      "directCost": {
+        "April:2024": "2903.000"
+      },
+      "group": "Full Property List",
+      "city": "London",
+      "fixedCost": 50,
+      "__v": 0
+    },
+    {
+      "_id": "66232864ef5cda786692df45",
+      "address": "Flat 26, Henley House, Swanfield Street, Shoreditch, London, E2 7JA",
+      "rentalCost": {
+        "April:2024": "2700.000"
+      },
+      "propertyName": "2B E2 B - 26 Henley House",
+      "tag": "2B E2 B",
+      "contractStartDate": "2023-01-20",
+      "contractEndDate": "2025-01-19",
+      "directCost": {
+        "April:2024": "3118.000"
+      },
+      "group": "Full Property List",
+      "city": "London",
+      "fixedCost": 50,
+      "__v": 0
+    },
+    {
+      "_id": "66232864ef5cda786692df46",
+      "address": "Flat b, 356 old York road, London, SW181SS",
+      "rentalCost": {
+        "April:2024": "1900.000"
+      },
+      "propertyName": "2B SW18 B - 356 Old York Rd",
+      "tag": "2B SW18 B",
+      "contractStartDate": "2023-01-16",
+      "contractEndDate": "2025-01-05",
+      "directCost": {
+        "April:2024": "2143.000"
+      },
+      "group": "Full Property List",
+      "city": "London",
+      "fixedCost": 50,
+      "__v": 0
+    },
+    {
+      "_id": "66232864ef5cda786692df47",
+      "address": "Flat 1907, One West Point W3 6DU",
+      "rentalCost": {
+        "April:2024": "2100.000"
+      },
+      "propertyName": "1B W3 - 1907 One West Point",
+      "tag": "1B W3",
+      "contractStartDate": "2023-01-03",
+      "contractEndDate": "2025-01-03",
+      "directCost": {
+        "April:2024": "2438.790"
+      },
+      "group": "Full Property List",
+      "city": "London",
+      "fixedCost": 50,
+      "__v": 0
+    },
+    {
+      "_id": "66232864ef5cda786692df48",
+      "address": "Flat 2001, One West Point W3 6DU",
+      "rentalCost": {
+        "April:2024": "2100.000"
+      },
+      "propertyName": "1B W3 - 2001 One West Point",
+      "tag": "1B W3",
+      "contractStartDate": "2023-01-03",
+      "contractEndDate": "2025-01-03",
+      "directCost": {
+        "April:2024": "2458.790"
+      },
+      "group": "Full Property List",
+      "city": "London",
+      "fixedCost": 50,
+      "__v": 0
+    },
+    {
+      "_id": "66232864ef5cda786692df49",
+      "address": "21 Altima Court, 33 East Dulwich road, SE22 9AL",
+      "rentalCost": {
+        "April:2024": "1900.000"
+      },
+      "propertyName": "2B SE22 A - 21 Altima Court",
+      "tag": "2B SE22 A",
+      "contractStartDate": "2022-12-24",
+      "contractEndDate": "2025-12-23",
+      "directCost": {
+        "April:2024": "2194.110"
+      },
+      "group": "Full Property List",
+      "city": "London",
+      "fixedCost": 50,
+      "__v": 0
+    },
+    {
+      "_id": "66232864ef5cda786692df4a",
+      "address": "Flat A, 5 Villa Road, London, SW9 7ND",
+      "rentalCost": {
+        "April:2024": "2200.000"
+      },
+      "propertyName": "2B SW9 A - 5 Villa Road",
+      "tag": "2B SW9 A",
+      "contractStartDate": "2022-12-21",
+      "contractEndDate": "2025-12-19",
+      "directCost": {
+        "April:2024": "2514.180"
+      },
+      "group": "Full Property List",
+      "city": "London",
+      "fixedCost": 50,
+      "__v": 0
+    },
+    {
+      "_id": "66232864ef5cda786692df4b",
+      "address": "Flat 14, 38 Gloucester Terrace, London, W2 3DA",
+      "rentalCost": {
+        "April:2024": "2500.000"
+      },
+      "propertyName": "2B W2 - 14 Gloucester Terrace",
+      "tag": "2B W2",
+      "contractStartDate": "2022-12-20",
+      "contractEndDate": "2023-12-20",
+      "directCost": {
+        "April:2024": "2763.000"
+      },
+      "group": "Full Property List",
+      "city": "London",
+      "fixedCost": 50,
+      "__v": 0
+    },
+    {
+      "_id": "66232864ef5cda786692df4c",
+      "address": "Flat 1, Ground Floor, 30 Gunter Grove, London SW10 0UJ",
+      "rentalCost": {
+        "April:2024": "2300.000"
+      },
+      "propertyName": "2B SW10 B - 30 Gunter Grove",
+      "tag": "2B SW10 B",
+      "contractStartDate": "2022-12-19",
+      "contractEndDate": "2024-04-19",
+      "directCost": {
+        "April:2024": "2599.000"
+      },
+      "group": "Full Property List",
+      "city": "London",
+      "fixedCost": 50,
+      "__v": 0
+    },
+    {
+      "_id": "66232864ef5cda786692df4d",
+      "address": "20 Chaucer Drive SE1 5TA",
+      "rentalCost": {
+        "April:2024": "2000.000"
+      },
+      "propertyName": "2B SE1B C - 20 Chaucer Drive",
+      "tag": "2B SE1B C",
+      "contractStartDate": "2022-12-14",
+      "contractEndDate": "2024-08-15",
+      "directCost": {
+        "April:2024": "2354.000"
+      },
+      "group": "Full Property List",
+      "city": "London",
+      "fixedCost": 50,
+      "__v": 0
+    },
+    {
+      "_id": "66232864ef5cda786692df4e",
+      "address": "Flat 73, 9 Queensland road. N7 7FH",
+      "rentalCost": {
+        "April:2024": "2617.500"
+      },
+      "propertyName": "2B N7 - 73 Queensland Road",
+      "tag": "2B N7",
+      "contractStartDate": "2022-12-07",
+      "contractEndDate": "2027-03-05",
+      "directCost": {
+        "April:2024": "2960.500"
+      },
+      "group": "Full Property List",
+      "city": "London",
+      "fixedCost": 50,
+      "__v": 0
+    },
+    {
+      "_id": "66232864ef5cda786692df4f",
+      "address": "58 Allendale Close, Camberwell, SE5 8SG",
+      "rentalCost": {
+        "April:2024": "1695.000"
+      },
+      "propertyName": "1B SE5 - 58 Allendale Close",
+      "tag": "1B SE5",
+      "contractStartDate": "2022-12-01",
+      "contractEndDate": "2025-12-01",
+      "directCost": {
+        "April:2024": "1989.000"
+      },
+      "group": "Full Property List",
+      "city": "London",
+      "fixedCost": 50,
+      "__v": 0
+    },
+    {
+      "_id": "66232864ef5cda786692df50",
+      "address": "L04 Hester House , 72-78 Conington Road, Lewisham SE137FL",
+      "rentalCost": {
+        "April:2024": "2200.000"
+      },
+      "propertyName": "2B SE13 A - L04 Hester House",
+      "tag": "2B SE13 A",
+      "contractStartDate": "2023-05-12",
+      "contractEndDate": "2026-05-12",
+      "directCost": {
+        "April:2024": "2488.000"
+      },
+      "group": "Full Property List",
+      "city": "London",
+      "fixedCost": 50,
+      "__v": 0
+    },
+    {
+      "_id": "66232864ef5cda786692df51",
+      "address": "Flat 32, Clement House, 135 Dalgarno Gardens, London, W10 5JB",
+      "rentalCost": {
+        "April:2024": "2400.000"
+      },
+      "propertyName": "2B W10 G - 32 Dalgarno Gardens",
+      "tag": "2B W10 G",
+      "contractStartDate": "2022-11-30",
+      "contractEndDate": "2025-11-29",
+      "directCost": {
+        "April:2024": "2673.000"
+      },
+      "group": "Full Property List",
+      "city": "London",
+      "fixedCost": 50,
+      "__v": 0
+    },
+    {
+      "_id": "66232864ef5cda786692df52",
+      "address": "18b Battersea Rise, Battersea, London, SW11 1EE",
+      "rentalCost": {
+        "April:2024": "1825.000"
+      },
+      "propertyName": "1B SW11 - 18B Battersea Rise",
+      "tag": "1B SW11",
+      "contractStartDate": "2022-11-23",
+      "contractEndDate": "2025-11-22",
+      "directCost": {
+        "April:2024": "2038.410"
+      },
+      "group": "Full Property List",
+      "city": "London",
+      "fixedCost": 50,
+      "__v": 0
+    },
+    {
+      "_id": "66232864ef5cda786692df53",
+      "address": "Flat 9, Chain Court, 33 Ajax Avenue, London NW9 5EY",
+      "rentalCost": {
+        "April:2024": "2060.000"
+      },
+      "propertyName": "2B NW9 - 9 Chain Court",
+      "tag": "2B NW9",
+      "contractStartDate": "2022-11-17",
+      "contractEndDate": "2025-11-17",
+      "directCost": {
+        "April:2024": "2465.000"
+      },
+      "group": "Full Property List",
+      "city": "London",
+      "fixedCost": 50,
+      "__v": 0
+    },
+    {
+      "_id": "66232864ef5cda786692df54",
+      "address": "Apartment 37, Affinity House, 84 Beresford Avenue, Wembley, HA01PY",
+      "rentalCost": {
+        "April:2024": "2250.000"
+      },
+      "propertyName": "3B HA - 37 Affinity House",
+      "tag": "3B HA",
+      "contractStartDate": "2022-11-09",
+      "contractEndDate": "2024-10-03",
+      "directCost": {
+        "April:2024": "2426.000"
+      },
+      "group": "Full Property List",
+      "city": "London",
+      "fixedCost": 50,
+      "__v": 0
+    },
+    {
+      "_id": "66232864ef5cda786692df55",
+      "address": "4, Hawkesbury Road, Putney, London, SW15 5HH",
+      "rentalCost": {
+        "April:2024": "3000.000"
+      },
+      "propertyName": "3B SW15 - 4 Hawkesbury Road",
+      "tag": "3B SW15",
+      "contractStartDate": "2022-11-07",
+      "contractEndDate": "2025-11-06",
+      "directCost": {
+        "April:2024": "3255.620"
+      },
+      "group": "Full Property List",
+      "city": "London",
+      "fixedCost": 50,
+      "__v": 0
+    },
+    {
+      "_id": "66232864ef5cda786692df56",
+      "address": "Flat 2, 30 Ellerslie Road W12 7BW",
+      "rentalCost": {
+        "April:2024": "2500.000"
+      },
+      "propertyName": "2B W12 G - 2 Ellerslie Road",
+      "tag": "2B W12 G",
+      "contractStartDate": "2022-11-01",
+      "contractEndDate": "2025-11-01",
+      "directCost": {
+        "April:2024": "2845.000"
+      },
+      "group": "Full Property List",
+      "city": "London",
+      "fixedCost": 50,
+      "__v": 0
+    },
+    {
+      "_id": "66232864ef5cda786692df57",
+      "address": "43 Central Road, Morden, SM4 5SD",
+      "rentalCost": {
+        "April:2024": "450.000"
+      },
+      "propertyName": "0B SM4 R - 1 Central Road",
+      "tag": "0B SM4 R",
+      "contractStartDate": "2022-10-31",
+      "contractEndDate": "2025-10-31",
+      "directCost": {
+        "April:2024": "525.563"
+      },
+      "group": "Full Property List",
+      "city": "London",
+      "fixedCost": 12.5,
+      "__v": 0
+    },
+    {
+      "_id": "66232864ef5cda786692df58",
+      "address": "43 Central Road, Morden, SM4 5SD",
+      "rentalCost": {
+        "April:2024": "450.000"
+      },
+      "propertyName": "0B SM4 R - 2 Central Road",
+      "tag": "0B SM4 R",
+      "contractStartDate": "2022-10-31",
+      "contractEndDate": "2025-10-31",
+      "directCost": {
+        "April:2024": "525.563"
+      },
+      "group": "Full Property List",
+      "city": "London",
+      "fixedCost": 12.5,
+      "__v": 0
+    },
+    {
+      "_id": "66232864ef5cda786692df59",
+      "address": "43 Central Road, Morden, SM4 5SD",
+      "rentalCost": {
+        "April:2024": "450.000"
+      },
+      "propertyName": "0B SM4 R - 3 Central Road",
+      "tag": "0B SM4 R",
+      "contractStartDate": "2022-10-31",
+      "contractEndDate": "2025-10-31",
+      "directCost": {
+        "April:2024": "525.563"
+      },
+      "group": "Full Property List",
+      "city": "London",
+      "fixedCost": 12.5,
+      "__v": 0
+    },
+    {
+      "_id": "66232864ef5cda786692df5a",
+      "address": "43 Central Road, Morden, SM4 5SD",
+      "rentalCost": {
+        "April:2024": "450.000"
+      },
+      "propertyName": "0B SM4 R - 4 Central Road",
+      "tag": "0B SM4 R",
+      "contractStartDate": "2022-10-31",
+      "contractEndDate": "2025-10-31",
+      "directCost": {
+        "April:2024": "525.563"
+      },
+      "group": "Full Property List",
+      "city": "London",
+      "fixedCost": 12.5,
+      "__v": 0
+    },
+    {
+      "_id": "66232864ef5cda786692df5b",
+      "address": "50 Radbourne Crescent, Walthamstow London, E17 3RS",
+      "rentalCost": {
+        "April:2024": "1850.000"
+      },
+      "propertyName": "2B E17 - 50 Radbourne Crescent",
+      "tag": "2B E17",
+      "contractStartDate": "2022-10-31",
+      "contractEndDate": "2025-10-30",
+      "directCost": {
+        "April:2024": "2188.000"
+      },
+      "group": "Full Property List",
+      "city": "London",
+      "fixedCost": 50,
+      "__v": 0
+    },
+    {
+      "_id": "66232864ef5cda786692df5c",
+      "address": "Flat 9, Pine House , 197 Townmeads Rd, SW6 2HF",
+      "rentalCost": {
+        "April:2024": "2700.000"
+      },
+      "propertyName": "2B SW6 B - 9 Pine House",
+      "tag": "2B SW6 B",
+      "contractStartDate": "2022-10-24",
+      "contractEndDate": "2025-10-23",
+      "directCost": {
+        "April:2024": "2920.000"
+      },
+      "group": "Full Property List",
+      "city": "London",
+      "fixedCost": 50,
+      "__v": 0
+    },
+    {
+      "_id": "66232864ef5cda786692df5d",
+      "address": "First Floor Flat, 27 Comeragh Road, London, W14 9HP",
+      "rentalCost": {
+        "April:2024": "1700.000"
+      },
+      "propertyName": "1B W14 - 27 Comeragh Road",
+      "tag": "1B W14",
+      "contractStartDate": "2022-09-12",
+      "contractEndDate": "2024-09-12",
+      "directCost": {
+        "April:2024": "1987.790"
+      },
+      "group": "Full Property List",
+      "city": "London",
+      "fixedCost": 50,
+      "__v": 0
+    },
+    {
+      "_id": "66232864ef5cda786692df5e",
+      "address": "Flat 3, Percy House, Sulgrave Road, W6 7QE",
+      "rentalCost": {
+        "April:2024": "1900.000"
+      },
+      "propertyName": "2B W6 B - 3 Percy House",
+      "tag": "2B W6 B",
+      "contractStartDate": "2022-09-08",
+      "contractEndDate": "2024-09-08",
+      "directCost": {
+        "April:2024": "2158.300"
+      },
+      "group": "Full Property List",
+      "city": "London",
+      "fixedCost": 50,
+      "__v": 0
+    },
+    {
+      "_id": "66232864ef5cda786692df5f",
+      "address": "63A Clapham Road, London, SW9 0HY",
+      "rentalCost": {
+        "April:2024": "2090.000"
+      },
+      "propertyName": "2B SW9 G - 63A Clapham Road",
+      "tag": "2B SW9 G",
+      "contractStartDate": "2022-09-05",
+      "contractEndDate": "2025-10-04",
+      "directCost": {
+        "April:2024": "2386.000"
+      },
+      "group": "Full Property List",
+      "city": "London",
+      "fixedCost": 50,
+      "__v": 0
+    },
+    {
+      "_id": "66232864ef5cda786692df60",
+      "address": "Flat 8, Palladium Court, 319 Queensbridge Road E8 3AJ, London",
+      "rentalCost": {
+        "April:2024": "1625.000"
+      },
+      "propertyName": "1B E8 - 8 Palladium Court",
+      "tag": "1B E8",
+      "contractStartDate": "2022-09-05",
+      "contractEndDate": "2025-09-05",
+      "directCost": {
+        "April:2024": "1881.750"
+      },
+      "group": "Full Property List",
+      "city": "London",
+      "fixedCost": 50,
+      "__v": 0
+    },
+    {
+      "_id": "66232864ef5cda786692df61",
+      "address": "Flat 30, Lugard House, Bloemfontein Road, London, W12 7BT",
+      "rentalCost": {
+        "April:2024": "1850.000"
+      },
+      "propertyName": "2B W12 B - 30 Lugard House",
+      "tag": "2B W12 B",
+      "contractStartDate": "2022-08-25",
+      "contractEndDate": "2023-08-25",
+      "directCost": {
+        "April:2024": "2155.000"
+      },
+      "group": "Full Property List",
+      "city": "London",
+      "fixedCost": 50,
+      "__v": 0
+    },
+    {
+      "_id": "66232864ef5cda786692df62",
+      "address": "Basement flat, 188 royal college Street, London NW1 9NN",
+      "rentalCost": {
+        "April:2024": "1900.000"
+      },
+      "propertyName": "2B NW1 C - 188 Royal College",
+      "tag": "2B NW1 C",
+      "contractStartDate": "2022-08-22",
+      "contractEndDate": "2023-08-22",
+      "directCost": {
+        "April:2024": "2307.000"
+      },
+      "group": "Full Property List",
+      "city": "London",
+      "fixedCost": 50,
+      "__v": 0
+    },
+    {
+      "_id": "66232864ef5cda786692df63",
+      "address": "13 Monmouth Court Coopers Road, SE1 5YA, London",
+      "rentalCost": {
+        "April:2024": "2300.000"
+      },
+      "propertyName": "2B SE1B C - 13 Monmouth Court",
+      "tag": "2B SE1B C",
+      "contractStartDate": "2022-08-15",
+      "contractEndDate": "2023-08-15",
+      "directCost": {
+        "April:2024": "2663.000"
+      },
+      "group": "Full Property List",
+      "city": "London",
+      "fixedCost": 50,
+      "__v": 0
+    },
+    {
+      "_id": "66232864ef5cda786692df64",
+      "address": "Flat 18 Shire House, Lamb's Passage, EC1Y 8TE",
+      "rentalCost": {
+        "April:2024": "2500.000"
+      },
+      "propertyName": "2B EC1 - 18 Shire House",
+      "tag": "2B EC1",
+      "contractStartDate": "2022-08-05",
+      "contractEndDate": "2024-08-05",
+      "directCost": {
+        "April:2024": "2878.500"
+      },
+      "group": "Full Property List",
+      "city": "London",
+      "fixedCost": 50,
+      "__v": 0
+    },
+    {
+      "_id": "66232864ef5cda786692df65",
+      "address": "Flat 9, 231 Ladbroke Grove, London, W10 6HG",
+      "rentalCost": {
+        "April:2024": "2500.000"
+      },
+      "propertyName": "2B W10 A - 9 Ladbroke Grove",
+      "tag": "2B W10 A",
+      "contractStartDate": "2022-08-03",
+      "contractEndDate": "2024-08-03",
+      "directCost": {
+        "April:2024": "2819.820"
+      },
+      "group": "Full Property List",
+      "city": "London",
+      "fixedCost": 50,
+      "__v": 0
+    },
+    {
+      "_id": "66232864ef5cda786692df66",
+      "address": "66 Goodwin Close, SE16 3TL",
+      "rentalCost": {
+        "April:2024": "1550.000"
+      },
+      "propertyName": "1B SE1 B - 66 Goodwin Close",
+      "tag": "1B SE1 B",
+      "contractStartDate": "2022-07-26",
+      "contractEndDate": "2026-10-25",
+      "directCost": {
+        "April:2024": "1717.550"
+      },
+      "group": "Full Property List",
+      "city": "London",
+      "fixedCost": 50,
+      "__v": 0
+    },
+    {
+      "_id": "66232864ef5cda786692df67",
+      "address": "90c, Overstone Road, W6 0AB",
+      "rentalCost": {
+        "April:2024": "2600.000"
+      },
+      "propertyName": "2B W6 A - 90C Overstone Road",
+      "tag": "2B W6 A",
+      "contractStartDate": "2022-07-25",
+      "contractEndDate": "2025-07-25",
+      "directCost": {
+        "April:2024": "2881.300"
+      },
+      "group": "Full Property List",
+      "city": "London",
+      "fixedCost": 50,
+      "__v": 0
+    },
+    {
+      "_id": "66232864ef5cda786692df68",
+      "address": "Flat 11, Copper House, 3 Market Road, N7 9HP, London, UK",
+      "rentalCost": {
+        "April:2024": "2675.000"
+      },
+      "propertyName": "2B N7 - 11 Copper House",
+      "tag": "2B N7",
+      "contractStartDate": "2022-07-18",
+      "contractEndDate": "2025-11-18",
+      "directCost": {
+        "April:2024": "2967.000"
+      },
+      "group": "Full Property List",
+      "city": "London",
+      "fixedCost": 50,
+      "__v": 0
+    },
+    {
+      "_id": "66232864ef5cda786692df69",
+      "address": "5 Park Road North, First Floor Flat, London, W4 4QE",
+      "rentalCost": {
+        "April:2024": "2100.000"
+      },
+      "propertyName": "2B W4 - 5 Park Road North",
+      "tag": "2B W4",
+      "contractStartDate": "2022-06-20",
+      "contractEndDate": "2025-06-01",
+      "directCost": {
+        "April:2024": "2556.640"
+      },
+      "group": "Full Property List",
+      "city": "London",
+      "fixedCost": 50,
+      "__v": 0
+    },
+    {
+      "_id": "66232864ef5cda786692df6a",
+      "address": "Flat 254, Brompton Park Cres, London SW6 1SZ",
+      "rentalCost": {
+        "April:2024": "2850.000"
+      },
+      "propertyName": "2B SW6 A - 254 Brompton Park",
+      "tag": "2B SW6 A",
+      "contractStartDate": "2022-06-20",
+      "contractEndDate": "2026-08-20",
+      "directCost": {
+        "April:2024": "3190.000"
+      },
+      "group": "Full Property List",
+      "city": "London",
+      "fixedCost": 50,
+      "__v": 0
+    },
+    {
+      "_id": "66232864ef5cda786692df6b",
+      "address": "Flat 9, Pump House, 25 Lebanon Road, Wandsworth, SW18 1RE",
+      "rentalCost": {
+        "April:2024": "2650.000"
+      },
+      "propertyName": "2B SW18 A - 9 Pump House",
+      "tag": "2B SW18 A",
+      "contractStartDate": "2022-06-13",
+      "contractEndDate": "2025-06-12",
+      "directCost": {
+        "April:2024": "2931.000"
+      },
+      "group": "Full Property List",
+      "city": "London",
+      "fixedCost": 50,
+      "__v": 0
+    },
+    {
+      "_id": "66232864ef5cda786692df6c",
+      "address": "4C, 9 Leinster Gardens, W2 6DP",
+      "rentalCost": {
+        "April:2024": "1100.000"
+      },
+      "propertyName": "0B W2 B - 4C Leinster Gardens",
+      "tag": "0B W2 B",
+      "contractStartDate": "2022-05-30",
+      "contractEndDate": "2027-05-29",
+      "directCost": {
+        "April:2024": "1220.580"
+      },
+      "group": "Full Property List",
+      "city": "London",
+      "fixedCost": 50,
+      "__v": 0
+    },
+    {
+      "_id": "66232864ef5cda786692df6d",
+      "address": "Flat 48, Wisteria Apartments, 33-43 Chatham Place, London, E9 6FB",
+      "rentalCost": {
+        "April:2024": "2415.000"
+      },
+      "propertyName": "2B E9 - 48 Wisteria Apartments",
+      "tag": "2B E9",
+      "contractStartDate": "2022-05-16",
+      "contractEndDate": "2025-05-15",
+      "directCost": {
+        "April:2024": "2750.000"
+      },
+      "group": "Full Property List",
+      "city": "London",
+      "fixedCost": 50,
+      "__v": 0
+    },
+    {
+      "_id": "66232864ef5cda786692df6e",
+      "address": "Flat 49, 3 Atkins Square, London, E8 1FA",
+      "rentalCost": {
+        "April:2024": "1400.000"
+      },
+      "propertyName": "0B E8 - 49 Atkins Square",
+      "tag": "0B E8",
+      "contractStartDate": "2022-04-27",
+      "contractEndDate": "2027-04-26",
+      "directCost": {
+        "April:2024": "1751.000"
+      },
+      "group": "Full Property List",
+      "city": "London",
+      "fixedCost": 50,
+      "__v": 0
+    },
+    {
+      "_id": "66232864ef5cda786692df6f",
+      "address": "Flat 9, Hamlet Court, Hammersmith, London, W6 0SY",
+      "rentalCost": {
+        "April:2024": "1800.000"
+      },
+      "propertyName": "2B W6 D - 9 Hamlet Court",
+      "tag": "2B W6 D",
+      "contractStartDate": "2022-04-18",
+      "contractEndDate": "2024-04-26",
+      "directCost": {
+        "April:2024": "2150.790"
+      },
+      "group": "Full Property List",
+      "city": "London",
+      "fixedCost": 50,
+      "__v": 0
+    },
+    {
+      "_id": "66232864ef5cda786692df70",
+      "address": "Flat 21, Lupin Point, SE1 2DW",
+      "rentalCost": {
+        "April:2024": "1900.000"
+      },
+      "propertyName": "2B SE1B E - 21 Lupin Point",
+      "tag": "2B SE1B E",
+      "contractStartDate": "2022-04-14",
+      "contractEndDate": "2028-08-17",
+      "directCost": {
+        "April:2024": "2226.200"
+      },
+      "group": "Full Property List",
+      "city": "London",
+      "fixedCost": 50,
+      "__v": 0
+    },
+    {
+      "_id": "66232864ef5cda786692df71",
+      "address": "Flat 7, Moyle House, Churchill Gardens, London, SW1V 3BE",
+      "rentalCost": {
+        "April:2024": "1700.000"
+      },
+      "propertyName": "1B SW1V B - 7 Moyle House",
+      "tag": "1B SW1V B",
+      "contractStartDate": "2022-04-09",
+      "contractEndDate": "2023-04-09",
+      "directCost": {
+        "April:2024": "1885.200"
+      },
+      "group": "Full Property List",
+      "city": "London",
+      "fixedCost": 50,
+      "__v": 0
+    },
+    {
+      "_id": "66232864ef5cda786692df72",
+      "address": "Flat 15, Rothesay House, Glenthorne Road, W6 0DG",
+      "rentalCost": {
+        "April:2024": "3300.000"
+      },
+      "propertyName": "2B W6 X - 15 Rothesay House",
+      "tag": "2B W6 X",
+      "contractStartDate": "2022-04-04",
+      "contractEndDate": "2026-04-04",
+      "directCost": {
+        "April:2024": "3370.000"
+      },
+      "group": "Full Property List",
+      "city": "London",
+      "fixedCost": 50,
+      "__v": 0
+    },
+    {
+      "_id": "66232864ef5cda786692df73",
+      "address": "Flat 3, 4 St George's Terrace, NW1 8XH",
+      "rentalCost": {
+        "April:2024": "1850.000"
+      },
+      "propertyName": "2B NW3 B - 3 St George's Terrace",
+      "tag": "2B NW3 B",
+      "contractStartDate": "2022-03-21",
+      "contractEndDate": "2023-03-20",
+      "directCost": {
+        "April:2024": "2258.000"
+      },
+      "group": "Full Property List",
+      "city": "London",
+      "fixedCost": 50,
+      "__v": 0
+    },
+    {
+      "_id": "66232864ef5cda786692df74",
+      "address": "Flat A, Melrose House, Melrose Gardens, W6 7RW",
+      "rentalCost": {
+        "April:2024": "1800.000"
+      },
+      "propertyName": "2B W6 C - A Melrose House",
+      "tag": "2B W6 C",
+      "contractStartDate": "2022-03-17",
+      "contractEndDate": "2026-03-17",
+      "directCost": {
+        "April:2024": "2134.010"
+      },
+      "group": "Full Property List",
+      "city": "London",
+      "fixedCost": 50,
+      "__v": 0
+    },
+    {
+      "_id": "66232864ef5cda786692df75",
+      "address": "Flat 8, Tamarind Court, 1 Sanders Lane, NW7 1BJ",
+      "rentalCost": {
+        "April:2024": "2000.000"
+      },
+      "propertyName": "2B NW7 - 8 Tamarind Court",
+      "tag": "2B NW7",
+      "contractStartDate": "2022-03-01",
+      "contractEndDate": null,
+      "directCost": {
+        "April:2024": "2367.000"
+      },
+      "group": "Full Property List",
+      "city": "London",
+      "fixedCost": 50,
+      "__v": 0
+    },
+    {
+      "_id": "66232864ef5cda786692df76",
+      "address": "Flat B23, Herbal Hill Gardens, 9 Herbal Hill, London, EC1R 5XB",
+      "rentalCost": {
+        "April:2024": "2400.000"
+      },
+      "propertyName": "2B EC1 - B23 Herbal Hill",
+      "tag": "2B EC1",
+      "contractStartDate": "2022-02-09",
+      "contractEndDate": "2023-02-09",
+      "directCost": {
+        "April:2024": "2794.000"
+      },
+      "group": "Full Property List",
+      "city": "London",
+      "fixedCost": 50,
+      "__v": 0
+    },
+    {
+      "_id": "66232864ef5cda786692df77",
+      "address": "Flat 35, Vancouver House, Surrey Quays Road, SE16 7BU",
+      "rentalCost": {
+        "April:2024": "2354.000"
+      },
+      "propertyName": "2B SE16 A - 35 Vancouver House",
+      "tag": "2B SE16 A",
+      "contractStartDate": "2022-02-02",
+      "contractEndDate": "2025-03-16",
+      "directCost": {
+        "April:2024": "2711.000"
+      },
+      "group": "Full Property List",
+      "city": "London",
+      "fixedCost": 50,
+      "__v": 0
+    },
+    {
+      "_id": "66232864ef5cda786692df78",
+      "address": "Flat 47, 1 Centric Close London, NW1 7EP",
+      "rentalCost": {
+        "April:2024": "3419.870"
+      },
+      "propertyName": "2B NW1 A - 47 Centric Close",
+      "tag": "2B NW1 A",
+      "contractStartDate": "2022-01-16",
+      "contractEndDate": "2026-01-16",
+      "directCost": {
+        "April:2024": "3840.870"
+      },
+      "group": "Full Property List",
+      "city": "London",
+      "fixedCost": 50,
+      "__v": 0
+    },
+    {
+      "_id": "66232864ef5cda786692df79",
+      "address": "2 Ongar House, Baxter Road, N1 3ND",
+      "rentalCost": {
+        "April:2024": "2300.000"
+      },
+      "propertyName": "2B N1 G - 2 Ongar House",
+      "tag": "2B N1 G",
+      "contractStartDate": "2022-01-06",
+      "contractEndDate": "2023-01-05",
+      "directCost": {
+        "April:2024": "2746.000"
+      },
+      "group": "Full Property List",
+      "city": "London",
+      "fixedCost": 50,
+      "__v": 0
+    },
+    {
+      "_id": "66232864ef5cda786692df7a",
+      "address": "Flat 1, Astoria Court, 73 Middleton Road, E8 4DW",
+      "rentalCost": {
+        "April:2024": "1600.000"
+      },
+      "propertyName": "2B E8 B - 1 Astoria Court",
+      "tag": "2B E8 B",
+      "contractStartDate": "2022-01-05",
+      "contractEndDate": "2025-01-05",
+      "directCost": {
+        "April:2024": "1842.800"
+      },
+      "group": "Full Property List",
+      "city": "London",
+      "fixedCost": 50,
+      "__v": 0
+    },
+    {
+      "_id": "66232864ef5cda786692df7b",
+      "address": "Ground Floor Flat, 108 Shakespeare Road, London, W3 6SN",
+      "rentalCost": {
+        "April:2024": "1890.000"
+      },
+      "propertyName": "2B W3 G - 108 Shakespeare Road",
+      "tag": "2B W3 G",
+      "contractStartDate": "2021-11-01",
+      "contractEndDate": "2025-11-01",
+      "directCost": {
+        "April:2024": "2293.000"
+      },
+      "group": "Full Property List",
+      "city": "London",
+      "fixedCost": 50,
+      "__v": 0
+    },
+    {
+      "_id": "66232864ef5cda786692df7c",
+      "address": "Flat 2, Astoria Court, 73 Middleton Road, E8 4DW",
+      "rentalCost": {
+        "April:2024": "1600.000"
+      },
+      "propertyName": "2B E8 B - 2 Astoria Court",
+      "tag": "2B E8 B",
+      "contractStartDate": "2021-10-26",
+      "contractEndDate": "2025-01-05",
+      "directCost": {
+        "April:2024": "1697.000"
+      },
+      "group": "Full Property List",
+      "city": "London",
+      "fixedCost": 50,
+      "__v": 0
+    },
+    {
+      "_id": "66232864ef5cda786692df7d",
+      "address": "73a Malvern Road, NW6 5PU",
+      "rentalCost": {
+        "April:2024": "1712.000"
+      },
+      "propertyName": "2B NW6 - 73A Malvern Road",
+      "tag": "2B NW6",
+      "contractStartDate": "2021-10-25",
+      "contractEndDate": "2023-10-24",
+      "directCost": {
+        "April:2024": "2014.000"
+      },
+      "group": "Full Property List",
+      "city": "London",
+      "fixedCost": 50,
+      "__v": 0
+    },
+    {
+      "_id": "66232864ef5cda786692df7e",
+      "address": "Flat 15, Victoria Chambers, Paul Street, EC2A 4ED",
+      "rentalCost": {
+        "April:2024": "2079.000"
+      },
+      "propertyName": "2B EC2 - 15 Victoria Chambers",
+      "tag": "2B EC2",
+      "contractStartDate": "2021-10-07",
+      "contractEndDate": "2025-11-06",
+      "directCost": {
+        "April:2024": "2413.000"
+      },
+      "group": "Full Property List",
+      "city": "London",
+      "fixedCost": 50,
+      "__v": 0
+    },
+    {
+      "_id": "66232864ef5cda786692df7f",
+      "address": "Flat 1, 115 Tower Bridge Road, SE1 3NE",
+      "rentalCost": {
+        "April:2024": "2193.500"
+      },
+      "propertyName": "2B SE1B B - 1 Tower Bridge",
+      "tag": "2B SE1B B",
+      "contractStartDate": "2021-10-03",
+      "contractEndDate": "2024-10-03",
+      "directCost": {
+        "April:2024": "2567.210"
+      },
+      "group": "Full Property List",
+      "city": "London",
+      "fixedCost": 50,
+      "__v": 0
+    },
+    {
+      "_id": "66232864ef5cda786692df80",
+      "address": "Flat 8, 12 Osiers Road, SW18 1UX",
+      "rentalCost": {
+        "April:2024": "2085.000"
+      },
+      "propertyName": "8 Osiers road",
+      "tag": "8 Osiers road",
+      "contractStartDate": "2021-09-30",
+      "contractEndDate": "2025-01-30",
+      "directCost": {
+        "April:2024": "2434.000"
+      },
+      "group": "Full Property List",
+      "city": "London",
+      "fixedCost": 50,
+      "__v": 0
+    },
+    {
+      "_id": "66232864ef5cda786692df81",
+      "address": "Flat 3, Mermaid Court, 30 Celandine Drive, E8 3XG",
+      "rentalCost": {
+        "April:2024": "1200.000"
+      },
+      "propertyName": "1B E8 - 3 Mermaid Court",
+      "tag": "1B E8",
+      "contractStartDate": "2021-09-27",
+      "contractEndDate": "2025-01-05",
+      "directCost": {
+        "April:2024": "1489.000"
+      },
+      "group": "Full Property List",
+      "city": "London",
+      "fixedCost": 50,
+      "__v": 0
+    },
+    {
+      "_id": "66232864ef5cda786692df82",
+      "address": "Flat 12, Habington House, Avenue Rd,  W3 8YP",
+      "rentalCost": {
+        "April:2024": "2100.000"
+      },
+      "propertyName": "2B W3 A - 12 Habington",
+      "tag": "2B W3 A",
+      "contractStartDate": "2021-09-21",
+      "contractEndDate": "2024-04-20",
+      "directCost": {
+        "April:2024": "2414.750"
+      },
+      "group": "Full Property List",
+      "city": "London",
+      "fixedCost": 50,
+      "__v": 0
+    },
+    {
+      "_id": "66232864ef5cda786692df83",
+      "address": "Sloane Apartments, Flat 17, 54 Old Castle Street London E1 7AJ",
+      "rentalCost": {
+        "April:2024": "2700.000"
+      },
+      "propertyName": "2B E1 B - 17 Sloane Apartment",
+      "tag": "2B E1 B",
+      "contractStartDate": "2021-09-20",
+      "contractEndDate": "2025-03-31",
+      "directCost": {
+        "April:2024": "3174.090"
+      },
+      "group": "Full Property List",
+      "city": "London",
+      "fixedCost": 50,
+      "__v": 0
+    },
+    {
+      "_id": "66232864ef5cda786692df84",
+      "address": "Flat 10, 5 Strype Street, E1 7LG",
+      "rentalCost": {
+        "April:2024": "2693.000"
+      },
+      "propertyName": "3B E1 - 10 Strype Street",
+      "tag": "3B E1",
+      "contractStartDate": "2021-09-04",
+      "contractEndDate": "2025-10-04",
+      "directCost": {
+        "April:2024": "3047.240"
+      },
+      "group": "Full Property List",
+      "city": "London",
+      "fixedCost": 50,
+      "__v": 0
+    },
+    {
+      "_id": "66232864ef5cda786692df85",
+      "address": "Flat B, 9 Grange Road, SE1 3BE",
+      "rentalCost": {
+        "April:2024": "1700.000"
+      },
+      "propertyName": "1B SE1 B - B Grange Road",
+      "tag": "1B SE1 B",
+      "contractStartDate": "2021-09-01",
+      "contractEndDate": "2024-09-01",
+      "directCost": {
+        "April:2024": "1977.000"
+      },
+      "group": "Full Property List",
+      "city": "London",
+      "fixedCost": 50,
+      "__v": 0
+    },
+    {
+      "_id": "66232864ef5cda786692df86",
+      "address": "Flat 14, Bow Bell Tower, 6 Pancras Way, E3 2SN",
+      "rentalCost": {
+        "April:2024": "1850.000"
+      },
+      "propertyName": "1B E3 B - 14 Pancras Way",
+      "tag": "1B E3 B",
+      "contractStartDate": "2021-08-28",
+      "contractEndDate": null,
+      "directCost": {
+        "April:2024": "1970.000"
+      },
+      "group": "Full Property List",
+      "city": "London",
+      "fixedCost": 50,
+      "__v": 0
+    },
+    {
+      "_id": "66232864ef5cda786692df87",
+      "address": "Flat 41, Charles Gardner Court, Haberdasher Street, N1 6DS",
+      "rentalCost": {
+        "April:2024": "2000.000"
+      },
+      "propertyName": "2B N1 C - 41 Charles Gardner Court",
+      "tag": "2B N1 C",
+      "contractStartDate": "2021-08-21",
+      "contractEndDate": "2026-08-21",
+      "directCost": {
+        "April:2024": "2305.000"
+      },
+      "group": "Full Property List",
+      "city": "London",
+      "fixedCost": 50,
+      "__v": 0
+    },
+    {
+      "_id": "66232864ef5cda786692df88",
+      "address": "Flat 32, Lupin Point, Abbey Street, SE1 2DW",
+      "rentalCost": {
+        "April:2024": "1900.000"
+      },
+      "propertyName": "2B SE1B E - 32 Lupin Point",
+      "tag": "2B SE1B E",
+      "contractStartDate": "2021-08-02",
+      "contractEndDate": "2028-08-17",
+      "directCost": {
+        "April:2024": "2227.580"
+      },
+      "group": "Full Property List",
+      "city": "London",
+      "fixedCost": 50,
+      "__v": 0
+    },
+    {
+      "_id": "66232864ef5cda786692df89",
+      "address": "Flat 9, 2 Wellesley Terrace, London, N1 7NA",
+      "rentalCost": {
+        "April:2024": "2100.000"
+      },
+      "propertyName": "2B N1 B - 9 Wellesley Terrace",
+      "tag": "2B N1 B",
+      "contractStartDate": "2021-08-01",
+      "contractEndDate": "2022-08-01",
+      "directCost": {
+        "April:2024": "2459.000"
+      },
+      "group": "Full Property List",
+      "city": "London",
+      "fixedCost": 50,
+      "__v": 0
+    },
+    {
+      "_id": "66232864ef5cda786692df8a",
+      "address": "26 Swan Mead, SE1 4SY",
+      "rentalCost": {
+        "April:2024": "1660.000"
+      },
+      "propertyName": "2B SE1B D - 26 Swan Mead",
+      "tag": "2B SE1B D",
+      "contractStartDate": "2021-07-26",
+      "contractEndDate": "2024-08-25",
+      "directCost": {
+        "April:2024": "1826.360"
+      },
+      "group": "Full Property List",
+      "city": "London",
+      "fixedCost": 50,
+      "__v": 0
+    },
+    {
+      "_id": "66232864ef5cda786692df8b",
+      "address": "Flat 2, 19-23 Sovereign House, Fitzroy Street, London, W1T 4BP",
+      "rentalCost": {
+        "April:2024": "2100.000"
+      },
+      "propertyName": "1B W1 - 2 Sovereign House",
+      "tag": "1B W1",
+      "contractStartDate": "2021-07-07",
+      "contractEndDate": "2025-11-21",
+      "directCost": {
+        "April:2024": "2512.000"
+      },
+      "group": "Full Property List",
+      "city": "London",
+      "fixedCost": 50,
+      "__v": 0
+    },
+    {
+      "_id": "66232864ef5cda786692df8c",
+      "address": "Flat 35, Texryte House, 24 Southgate Rd, London, N1 3GN",
+      "rentalCost": {
+        "April:2024": "1650.000"
+      },
+      "propertyName": "1B E8 - 35 Texryte House",
+      "tag": "1B E8",
+      "contractStartDate": "2021-07-05",
+      "contractEndDate": "2024-08-19",
+      "directCost": {
+        "April:2024": "1942.670"
+      },
+      "group": "Full Property List",
+      "city": "London",
+      "fixedCost": 50,
+      "__v": 0
+    },
+    {
+      "_id": "66232864ef5cda786692df8d",
+      "address": "Flat 2, 44-46 Drury Lane, WC2B 5RX",
+      "rentalCost": {
+        "April:2024": "2950.000"
+      },
+      "propertyName": "2B WC - Drury Lane",
+      "tag": "2B WC",
+      "contractStartDate": "2021-06-28",
+      "contractEndDate": null,
+      "directCost": {
+        "April:2024": "3245.000"
+      },
+      "group": "Full Property List",
+      "city": "London",
+      "fixedCost": 50,
+      "__v": 0
+    },
+    {
+      "_id": "66232864ef5cda786692df8e",
+      "address": "Flat 33, Bentley Road, N1 4BY",
+      "rentalCost": {
+        "April:2024": "1200.000"
+      },
+      "propertyName": "1B E8 - 33 Bentley Road",
+      "tag": "1B E8",
+      "contractStartDate": "2021-06-24",
+      "contractEndDate": "2025-01-05",
+      "directCost": {
+        "April:2024": "1547.520"
+      },
+      "group": "Full Property List",
+      "city": "London",
+      "fixedCost": 50,
+      "__v": 0
+    },
+    {
+      "_id": "66232864ef5cda786692df8f",
+      "address": "Flat 19, Lemon House,  44 Surbiton Rd, KT1 2BL",
+      "rentalCost": {
+        "April:2024": "1225.000"
+      },
+      "propertyName": "0B KT1 - 19 Lemon House",
+      "tag": "0B KT1",
+      "contractStartDate": "2021-05-17",
+      "contractEndDate": "2025-05-16",
+      "directCost": {
+        "April:2024": "1605.000"
+      },
+      "group": "Full Property List",
+      "city": "London",
+      "fixedCost": 50,
+      "__v": 0
+    },
+    {
+      "_id": "66232864ef5cda786692df90",
+      "address": "Flat 7, Vere Court, 8 Westbourne Gardens, W2 5PT",
+      "rentalCost": {
+        "April:2024": "1200.000"
+      },
+      "propertyName": "0B W2 A - 7 Vere Court",
+      "tag": "0B W2 A",
+      "contractStartDate": "2021-05-01",
+      "contractEndDate": "2023-05-01",
+      "directCost": {
+        "April:2024": "1300.000"
+      },
+      "group": "Full Property List",
+      "city": "London",
+      "fixedCost": 50,
+      "__v": 0
+    },
+    {
+      "_id": "66232864ef5cda786692df91",
+      "address": "Flat 31, Lemon House,  44 Surbiton Rd, KT1 2BL",
+      "rentalCost": {
+        "April:2024": "1250.000"
+      },
+      "propertyName": "0B KT1 - 31 Lemon House",
+      "tag": "0B KT1",
+      "contractStartDate": "2021-04-19",
+      "contractEndDate": "2025-04-18",
+      "directCost": {
+        "April:2024": "1630.000"
+      },
+      "group": "Full Property List",
+      "city": "London",
+      "fixedCost": 50,
+      "__v": 0
+    },
+    {
+      "_id": "66232864ef5cda786692df92",
+      "address": "Flat 14, 5 Strype Street, E1 7LG",
+      "rentalCost": {
+        "April:2024": "1300.000"
+      },
+      "propertyName": "1B E1 - 14 Strype Street",
+      "tag": "1B E1",
+      "contractStartDate": "2021-04-14",
+      "contractEndDate": "2025-01-05",
+      "directCost": {
+        "April:2024": "1446.220"
+      },
+      "group": "Full Property List",
+      "city": "London",
+      "fixedCost": 50,
+      "__v": 0
+    },
+    {
+      "_id": "66232864ef5cda786692df93",
+      "address": "Flat 10 Lemon house,  44 Surbiton Rd, KT1 2BL",
+      "rentalCost": {
+        "April:2024": "920.000"
+      },
+      "propertyName": "0B KT1 - 10 Lemon House",
+      "tag": "0B KT1",
+      "contractStartDate": "2021-02-02",
+      "contractEndDate": "2022-02-01",
+      "directCost": {
+        "April:2024": "1300.000"
+      },
+      "group": "Full Property List",
+      "city": "London",
+      "fixedCost": 50,
+      "__v": 0
+    },
+    {
+      "_id": "66232864ef5cda786692df94",
+      "address": "Flat 2, 161 Whitecross Street, EC1Y 8JL",
+      "rentalCost": {
+        "April:2024": "1600.000"
+      },
+      "propertyName": "1B EC1 Y - 2 Whitecross",
+      "tag": "1B EC1 Y",
+      "contractStartDate": "2021-02-01",
+      "contractEndDate": "2024-09-01",
+      "directCost": {
+        "April:2024": "1934.980"
+      },
+      "group": "Full Property List",
+      "city": "London",
+      "fixedCost": 50,
+      "__v": 0
+    },
+    {
+      "_id": "66232864ef5cda786692df95",
+      "address": "Flat 3, St Clements House, Leyden St, London, E1 7LL",
+      "rentalCost": {
+        "April:2024": "2400.000"
+      },
+      "propertyName": "2B E1 A - 3 St Clements",
+      "tag": "2B E1 A",
+      "contractStartDate": "2021-01-04",
+      "contractEndDate": "2025-01-04",
+      "directCost": {
+        "April:2024": "2829.500"
+      },
+      "group": "Full Property List",
+      "city": "London",
+      "fixedCost": 50,
+      "__v": 0
+    },
+    {
+      "_id": "66232864ef5cda786692df96",
+      "address": "92 Rockingham Street, SE1 6PG",
+      "rentalCost": {
+        "April:2024": "1712.000"
+      },
+      "propertyName": "2B SE1L B - 92 Rockingham",
+      "tag": "2B SE1L B",
+      "contractStartDate": "2020-10-26",
+      "contractEndDate": "2025-10-26",
+      "directCost": {
+        "April:2024": "2078.980"
+      },
+      "group": "Full Property List",
+      "city": "London",
+      "fixedCost": 50,
+      "__v": 0
+    },
+    {
+      "_id": "66232864ef5cda786692df97",
+      "address": "Flat 26, Century House, 102 Westminster Bridge road, SE1 7XT",
+      "rentalCost": {
+        "April:2024": "1770.000"
+      },
+      "propertyName": "1B SE1 L - 26 Century House",
+      "tag": "1B SE1 L",
+      "contractStartDate": "2020-10-22",
+      "contractEndDate": "2027-01-22",
+      "directCost": {
+        "April:2024": "2078.000"
+      },
+      "group": "Full Property List",
+      "city": "London",
+      "fixedCost": 50,
+      "__v": 0
+    },
+    {
+      "_id": "66232864ef5cda786692df98",
+      "address": "Flat 27, St Clements House, Leyden St, London, E1 7LL",
+      "rentalCost": {
+        "April:2024": "2247.000"
+      },
+      "propertyName": "2B E1 A - 27 St Clements",
+      "tag": "2B E1 A",
+      "contractStartDate": "2020-10-20",
+      "contractEndDate": "2023-11-20",
+      "directCost": {
+        "April:2024": "2772.000"
+      },
+      "group": "Full Property List",
+      "city": "London",
+      "fixedCost": 50,
+      "__v": 0
+    },
+    {
+      "_id": "66232864ef5cda786692df99",
+      "address": "Flat B, 3 Gunterstone Rd, W14 9BP",
+      "rentalCost": {
+        "April:2024": "2250.000"
+      },
+      "propertyName": "2B W14 - B Gunterstone",
+      "tag": "2B W14",
+      "contractStartDate": "2020-10-01",
+      "contractEndDate": "2026-07-01",
+      "directCost": {
+        "April:2024": "2633.000"
+      },
+      "group": "Full Property List",
+      "city": "London",
+      "fixedCost": 50,
+      "__v": 0
+    },
+    {
+      "_id": "66232864ef5cda786692df9a",
+      "address": "Flat 5, 5 Strype Street, E1 7LG",
+      "rentalCost": {
+        "April:2024": "1498.000"
+      },
+      "propertyName": "1B E1 - 5 Strype Street",
+      "tag": "1B E1",
+      "contractStartDate": "2020-09-29",
+      "contractEndDate": "2024-10-28",
+      "directCost": {
+        "April:2024": "1767.160"
+      },
+      "group": "Full Property List",
+      "city": "London",
+      "fixedCost": 50,
+      "__v": 0
+    },
+    {
+      "_id": "66232864ef5cda786692df9b",
+      "address": "Flat 29, Shoreditch Heights, N1 7GN",
+      "rentalCost": {
+        "April:2024": "2500.000"
+      },
+      "propertyName": "2B N1 A - 29 Shoreditch Heights",
+      "tag": "2B N1 A",
+      "contractStartDate": "2020-09-19",
+      "contractEndDate": "2024-08-18",
+      "directCost": {
+        "April:2024": "2869.000"
+      },
+      "group": "Full Property List",
+      "city": "London",
+      "fixedCost": 50,
+      "__v": 0
+    },
+    {
+      "_id": "66232864ef5cda786692df9c",
+      "address": "Flat C, 3 Gunterstone Rd, W14 9BP",
+      "rentalCost": {
+        "April:2024": "2274.800"
+      },
+      "propertyName": "2B W14 - C Gunterstone",
+      "tag": "2B W14",
+      "contractStartDate": "2020-09-12",
+      "contractEndDate": "2026-04-12",
+      "directCost": {
+        "April:2024": "2508.800"
+      },
+      "group": "Full Property List",
+      "city": "London",
+      "fixedCost": 50,
+      "__v": 0
+    },
+    {
+      "_id": "66232864ef5cda786692df9d",
+      "address": "Flat 2, 5 Strype Street, E1 7LG",
+      "rentalCost": {
+        "April:2024": "1600.000"
+      },
+      "propertyName": "1B E1 - 2 Strype Street",
+      "tag": "1B E1",
+      "contractStartDate": "2020-08-19",
+      "contractEndDate": "2025-08-19",
+      "directCost": {
+        "April:2024": "1861.000"
+      },
+      "group": "Full Property List",
+      "city": "London",
+      "fixedCost": 50,
+      "__v": 0
+    },
+    {
+      "_id": "66232864ef5cda786692df9e",
+      "address": "Flat 1, Cathedral Mansions, 262 Vauxhall Bridge Rd, SW1V 1BP",
+      "rentalCost": {
+        "April:2024": "1607.100"
+      },
+      "propertyName": "1B SW1V A - 1 Cathedral Mansions",
+      "tag": "1B SW1V A",
+      "contractStartDate": "2020-08-17",
+      "contractEndDate": "2025-02-17",
+      "directCost": {
+        "April:2024": "1796.270"
+      },
+      "group": "Full Property List",
+      "city": "London",
+      "fixedCost": 50,
+      "__v": 0
+    },
+    {
+      "_id": "66232864ef5cda786692df9f",
+      "address": "Flat 33, St Clements House, Leyden St, London, E1 7LL",
+      "rentalCost": {
+        "April:2024": "2200.000"
+      },
+      "propertyName": "2B E1 A - 33 St Clements",
+      "tag": "2B E1 A",
+      "contractStartDate": "2020-08-12",
+      "contractEndDate": null,
+      "directCost": {
+        "April:2024": "2326.390"
+      },
+      "group": "Full Property List",
+      "city": "London",
+      "fixedCost": 50,
+      "__v": 0
+    },
+    {
+      "_id": "66232864ef5cda786692dfa0",
+      "address": "Flat 59, Napier House, Bromyard Avenue, W3 7FF",
+      "rentalCost": {
+        "April:2024": "2400.000"
+      },
+      "propertyName": "2B W3 A - 59 Napier House",
+      "tag": "2B W3 A",
+      "contractStartDate": "2020-06-12",
+      "contractEndDate": null,
+      "directCost": {
+        "April:2024": "2580.000"
+      },
+      "group": "Full Property List",
+      "city": "London",
+      "fixedCost": 50,
+      "__v": 0
+    },
+    {
+      "_id": "66232864ef5cda786692dfa1",
+      "address": "10 Burnthwaite Road, SW6 5BE",
+      "rentalCost": {
+        "April:2024": "2780.000"
+      },
+      "propertyName": "2B SW6 G - 10 Burnthwaite",
+      "tag": "2B SW6 G",
+      "contractStartDate": "2020-01-04",
+      "contractEndDate": "2027-01-04",
+      "directCost": {
+        "April:2024": "3005.150"
+      },
+      "group": "Full Property List",
+      "city": "London",
+      "fixedCost": 50,
+      "__v": 0
+    },
+    {
+      "_id": "66232864ef5cda786692dfa2",
+      "address": "Flat 4, St Clements House, 12 Leyden St, London, E1 7LL",
+      "rentalCost": {
+        "April:2024": "2557.000"
+      },
+      "propertyName": "2B E1 A - 4 St Clements",
+      "tag": "2B E1 A",
+      "contractStartDate": "2019-10-13",
+      "contractEndDate": "2024-10-11",
+      "directCost": {
+        "April:2024": "3103.000"
+      },
+      "group": "Full Property List",
+      "city": "London",
+      "fixedCost": 50,
+      "__v": 0
+    },
+    {
+      "_id": "66232864ef5cda786692dfa3",
+      "address": "9 Cape Yard, LondonE1W 2JU",
+      "rentalCost": {
+        "April:2024": "3200.000"
+      },
+      "propertyName": "2B E1W - 9 Cape Yard",
+      "tag": "2B E1W",
+      "contractStartDate": "2023-07-06",
+      "contractEndDate": "2026-08-06",
+      "directCost": {
+        "April:2024": "3537.000"
+      },
+      "group": "Full Property List",
+      "city": "London",
+      "fixedCost": 50,
+      "__v": 0
+    },
+    {
+      "_id": "66232864ef5cda786692dfa4",
+      "address": "Flat 30, Florin Court, 70 Tanner Street, SE1 3DP",
+      "rentalCost": {
+        "April:2024": "2500.000"
+      },
+      "propertyName": "2B SE1B A - 30 Florin Court",
+      "tag": "2B SE1B A",
+      "contractStartDate": "2021-07-04",
+      "contractEndDate": "2023-12-04",
+      "directCost": {
+        "April:2024": "2837.000"
+      },
+      "group": "Full Property List",
+      "city": "London",
+      "fixedCost": 50,
+      "__v": 0
+    },
+    {
+      "_id": "66232864ef5cda786692dfa5",
+      "address": "Flat 29, Century House, 102 Westminster Bridge road, London, SE1 7XT",
+      "rentalCost": {
+        "April:2024": "1750.000"
+      },
+      "propertyName": "2B SE1L A - 29 Century House",
+      "tag": "2B SE1L A",
+      "contractStartDate": "2021-06-21",
+      "contractEndDate": null,
+      "directCost": {
+        "April:2024": "2015.100"
+      },
+      "group": "Full Property List",
+      "city": "London",
+      "fixedCost": 50,
+      "__v": 0
+    },
+    {
+      "_id": "66232864ef5cda786692dfa6",
+      "address": "Flat 37, Styles House, SE1 8DF",
+      "rentalCost": {
+        "April:2024": "1550.000"
+      },
+      "propertyName": "1B SE1 L - 37 Styles House",
+      "tag": "1B SE1 L",
+      "contractStartDate": "2021-04-15",
+      "contractEndDate": "2026-04-15",
+      "directCost": {
+        "April:2024": "1670.000"
+      },
+      "group": "Full Property List",
+      "city": "London",
+      "fixedCost": 50,
+      "__v": 0
+    },
+    {
+      "_id": "66232864ef5cda786692dfa7",
+      "address": "BASEMENT FLAT, 64 RICHBORNE TERRACE, SW81AX",
+      "rentalCost": {
+        "April:2024": "1000.000"
+      },
+      "propertyName": "0B SW8 - 2 Richborne Terrace",
+      "tag": "0B SW8",
+      "contractStartDate": "2024-01-29",
+      "contractEndDate": "2027-01-29",
+      "directCost": {
+        "April:2024": "1306.500"
+      },
+      "group": "Full Property List",
+      "city": "London",
+      "fixedCost": 50,
+      "__v": 0
+    },
+    {
+      "_id": "66232864ef5cda786692dfa8",
+      "address": "Flat 123, 9 Queensland road, N7 7FH",
+      "rentalCost": {
+        "April:2024": "2650.000"
+      },
+      "propertyName": "2B N7 - 123 Queensland Road",
+      "tag": "2B N7",
+      "contractStartDate": "2024-04-29",
+      "contractEndDate": "2027-04-29",
+      "directCost": {
+        "April:2024": "2993.000"
+      },
+      "group": "Full Property List",
+      "city": "London",
+      "fixedCost": 50,
+      "__v": 0
+    },
+    {
+      "_id": "66232864ef5cda786692dfa9",
+      "address": "3 Tower Walk, 3 Leroy Street, London SE1 4SN",
+      "rentalCost": {
+        "April:2024": "1500.000"
+      },
+      "propertyName": "1B SE1 B - 3 Tower Walk",
+      "tag": "1B SE1 B",
+      "contractStartDate": "2023-10-26",
+      "contractEndDate": null,
+      "directCost": {
+        "April:2024": "1779.000"
+      },
+      "group": "Exited",
+      "city": "London",
+      "fixedCost": 50,
+      "__v": 0
+    },
+    {
+      "_id": "66232864ef5cda786692dfaa",
+      "address": "Flat G Reed Court, 9 Waterway Avenue ,London SE13 7GB",
+      "rentalCost": {
+        "April:2024": "NaN"
+      },
+      "propertyName": "2B SE13 - G Reed Court",
+      "tag": "2B SE13",
+      "contractStartDate": "2023-09-04",
+      "contractEndDate": null,
+      "directCost": {
+        "April:2024": "366.000"
+      },
+      "group": "Exited",
+      "city": "London",
+      "fixedCost": 50,
+      "__v": 0
+    },
+    {
+      "_id": "66232864ef5cda786692dfab",
+      "address": "Flat 1, 56 Millbank, London SW1P 4RL",
+      "rentalCost": {
+        "April:2024": "3000.000"
+      },
+      "propertyName": "2B SW1 - 1 Millbank",
+      "tag": "2B SW1",
+      "contractStartDate": "2023-07-24",
+      "contractEndDate": null,
+      "directCost": {
+        "April:2024": "3286.000"
+      },
+      "group": "Exited",
+      "city": "London",
+      "fixedCost": 50,
+      "__v": 0
+    },
+    {
+      "_id": "66232864ef5cda786692dfac",
+      "address": "Flat 85, 281 Kennington Lane, London SE11 5AR",
+      "rentalCost": {
+        "April:2024": "3400.000"
+      },
+      "propertyName": "2B SE11 - 85 Kennington",
+      "tag": "2B SE11",
+      "contractStartDate": "2023-06-15",
+      "contractEndDate": null,
+      "directCost": {
+        "April:2024": "3722.830"
+      },
+      "group": "Exited",
+      "city": "London",
+      "fixedCost": 50,
+      "__v": 0
+    },
+    {
+      "_id": "66232864ef5cda786692dfad",
+      "address": "Flat 16, 281 Kennington Lane, London, SE11 5AQ",
+      "rentalCost": {
+        "April:2024": "2500.000"
+      },
+      "propertyName": "1B SE11 - 16 Kennington",
+      "tag": "1B SE11",
+      "contractStartDate": "2023-05-29",
+      "contractEndDate": null,
+      "directCost": {
+        "April:2024": "2796.830"
+      },
+      "group": "Exited",
+      "city": "London",
+      "fixedCost": 50,
+      "__v": 0
+    },
+    {
+      "_id": "66232864ef5cda786692dfae",
+      "address": "Flat 4, 100 Clapham Common Southside SW4 9DN, London",
+      "rentalCost": {
+        "April:2024": "2500.000"
+      },
+      "propertyName": "2B SW4 A - 4 Southside",
+      "tag": "2B SW4 A",
+      "contractStartDate": "2023-05-01",
+      "contractEndDate": "2023-08-20",
+      "directCost": {
+        "April:2024": "2830.000"
+      },
+      "group": "Exited",
+      "city": "London",
+      "fixedCost": 50,
+      "__v": 0
+    },
+    {
+      "_id": "66232864ef5cda786692dfaf",
+      "address": "Flat F, 11 Balham Grove SW12 8AZ",
+      "rentalCost": {
+        "April:2024": "2000.000"
+      },
+      "propertyName": "1B SW12 - F Balham Grove",
+      "tag": "1B SW12",
+      "contractStartDate": "2023-04-24",
+      "contractEndDate": "2023-08-19",
+      "directCost": {
+        "April:2024": "2304.610"
+      },
+      "group": "Exited",
+      "city": "London",
+      "fixedCost": 50,
+      "__v": 0
+    },
+    {
+      "_id": "66232864ef5cda786692dfb0",
+      "address": "138 Xchange Point , 22 Market Road ,London N7 9GT",
+      "rentalCost": {
+        "April:2024": "2475.000"
+      },
+      "propertyName": "2B N7 - 138 Xchange Point",
+      "tag": "2B N7",
+      "contractStartDate": "2023-02-13",
+      "contractEndDate": "2024-02-13",
+      "directCost": {
+        "April:2024": "2835.000"
+      },
+      "group": "Exited",
+      "city": "London",
+      "fixedCost": 50,
+      "__v": 0
+    },
+    {
+      "_id": "66232864ef5cda786692dfb1",
+      "address": "Flat 14, Monmouth Court, Cooper’s, SE1 5YA",
+      "rentalCost": {
+        "April:2024": "1700.000"
+      },
+      "propertyName": "1B SE1 B - 14 Monmouth court",
+      "tag": "1B SE1 B",
+      "contractStartDate": "2023-01-09",
+      "contractEndDate": "2024-01-09",
+      "directCost": {
+        "April:2024": "1993.800"
+      },
+      "group": "Exited",
+      "city": "London",
+      "fixedCost": 50,
+      "__v": 0
+    },
+    {
+      "_id": "66232864ef5cda786692dfb2",
+      "address": "Flat 5, 1 Elm Park Gardens SW109QB",
+      "rentalCost": {
+        "April:2024": "4500.000"
+      },
+      "propertyName": "2B SW10 - 5 Elm Park",
+      "tag": "2B SW10",
+      "contractStartDate": "2022-12-30",
+      "contractEndDate": null,
+      "directCost": {
+        "April:2024": "4868.000"
+      },
+      "group": "Exited",
+      "city": "London",
+      "fixedCost": 50,
+      "__v": 0
+    },
+    {
+      "_id": "66232864ef5cda786692dfb3",
+      "address": "4 Plymouth Road, Bromley, BR1 3JD",
+      "rentalCost": {
+        "April:2024": "1700.000"
+      },
+      "propertyName": "2B BR1 - 4 Plymouth Road",
+      "tag": "2B BR1",
+      "contractStartDate": "2022-11-21",
+      "contractEndDate": null,
+      "directCost": {
+        "April:2024": "2007.440"
+      },
+      "group": "Exited",
+      "city": "London",
+      "fixedCost": 50,
+      "__v": 0
+    },
+    {
+      "_id": "66232864ef5cda786692dfb4",
+      "address": "Flat 2, 2 Wellesley Terrace, London, N1 7NA",
+      "rentalCost": {
+        "April:2024": "2100.000"
+      },
+      "propertyName": "2B N1 B - 2 Wellesley Terrace",
+      "tag": "2B N1 B",
+      "contractStartDate": "2022-08-01",
+      "contractEndDate": "2023-08-29",
+      "directCost": {
+        "April:2024": "2562.000"
+      },
+      "group": "Exited",
+      "city": "London",
+      "fixedCost": 50,
+      "__v": 0
+    },
+    {
+      "_id": "66232864ef5cda786692dfb5",
+      "address": "23C Wellspring Crescent, Block E, Wembley, HA9 9UB",
+      "rentalCost": {
+        "April:2024": "2000.000"
+      },
+      "propertyName": "2B HA B - 23C Wellspring Crescent",
+      "tag": "2B HA B",
+      "contractStartDate": "2024-03-25",
+      "contractEndDate": "2027-03-25",
+      "directCost": {
+        "April:2024": "2336.370"
+      },
+      "group": "Exited",
+      "city": "London",
+      "fixedCost": 50,
+      "__v": 0
+    },
+    {
+      "_id": "66232864ef5cda786692dfb6",
+      "address": "Flat 57 Tomlinson Close, London, E2 7LJ",
+      "rentalCost": {
+        "April:2024": "2800.000"
+      },
+      "propertyName": "3B E2 - 57 Tomlinson Close",
+      "tag": "3B E2",
+      "contractStartDate": "2022-08-01",
+      "contractEndDate": null,
+      "directCost": {
+        "April:2024": "3196.630"
+      },
+      "group": "Exited",
+      "city": "London",
+      "fixedCost": 50,
+      "__v": 0
+    },
+    {
+      "_id": "66232864ef5cda786692dfb7",
+      "address": "Flat B, 115 Glengall Road, Queens Park, London, NW6 7HG",
+      "rentalCost": {
+        "April:2024": "2000.000"
+      },
+      "propertyName": "B Glengall Road",
+      "tag": "B Glengall Road",
+      "contractStartDate": "2022-04-25",
+      "contractEndDate": null,
+      "directCost": {
+        "April:2024": "2300.000"
+      },
+      "group": "Exited",
+      "city": "London",
+      "fixedCost": 50,
+      "__v": 0
+    },
+    {
+      "_id": "66232864ef5cda786692dfb8",
+      "address": "Flat 1, First Floor Flat, 80 Haverstock Hill, LONDON, NW3 2BE",
+      "rentalCost": {
+        "April:2024": "1600.000"
+      },
+      "propertyName": "1B NW3 - 1 Haverstock Hill",
+      "tag": "1B NW3",
+      "contractStartDate": "2022-02-07",
+      "contractEndDate": null,
+      "directCost": {
+        "April:2024": "1750.400"
+      },
+      "group": "Exited",
+      "city": "London",
+      "fixedCost": 50,
+      "__v": 0
+    },
+    {
+      "_id": "66232864ef5cda786692dfb9",
+      "address": "Flat g, 2 Lakeside Rd, W14 0DU",
+      "rentalCost": {
+        "April:2024": "1450.000"
+      },
+      "propertyName": "g lakeside",
+      "tag": "g lakeside",
+      "contractStartDate": "2021-09-02",
+      "contractEndDate": null,
+      "directCost": {
+        "April:2024": "1629.890"
+      },
+      "group": "Exited",
+      "city": "London",
+      "fixedCost": 50,
+      "__v": 0
+    },
+    {
+      "_id": "66232864ef5cda786692dfba",
+      "address": "Flat 10, Regency Lodge, Regency Parade, London, NW3 5EE",
+      "rentalCost": {
+        "April:2024": "1750.000"
+      },
+      "propertyName": "2B NW3 B - 10 Regency Lodge",
+      "tag": "2B NW3 B",
+      "contractStartDate": "2021-05-12",
+      "contractEndDate": null,
+      "directCost": {
+        "April:2024": "1865.000"
+      },
+      "group": "Exited",
+      "city": "London",
+      "fixedCost": 50,
+      "__v": 0
+    },
+    {
+      "_id": "66232864ef5cda786692dfbb",
+      "address": "Flat 33, Lemon House,  44 Surbiton Rd, KT1 2BL",
+      "rentalCost": {
+        "April:2024": "950.000"
+      },
+      "propertyName": "0B KT1 - 33 Lemon House",
+      "tag": "0B KT1",
+      "contractStartDate": "2020-11-28",
+      "contractEndDate": null,
+      "directCost": {
+        "April:2024": "1224.000"
+      },
+      "group": "Exited",
+      "city": "London",
+      "fixedCost": 50,
+      "__v": 0
+    },
+    {
+      "_id": "66232864ef5cda786692dfbc",
+      "address": "Flat 2, 18-20 Laystall Street, EC1R 4PG",
+      "rentalCost": {
+        "April:2024": "1890.030"
+      },
+      "propertyName": "18 Laystall",
+      "tag": "18 Laystall",
+      "contractStartDate": "2020-11-17",
+      "contractEndDate": null,
+      "directCost": {
+        "April:2024": "2252.550"
+      },
+      "group": "Exited",
+      "city": "London",
+      "fixedCost": 50,
+      "__v": 0
+    },
+    {
+      "_id": "66232864ef5cda786692dfbd",
+      "address": "1 Lennox Gardens, London NW10 1AA",
+      "rentalCost": {
+        "April:2024": "937.500"
+      },
+      "propertyName": "0B NW10 R - 1 Lennox Gardens",
+      "tag": "0B NW10 R",
+      "contractStartDate": "2023-06-05",
+      "contractEndDate": "2024-02-01",
+      "directCost": {
+        "April:2024": "986.813"
+      },
+      "group": "Exited",
+      "city": "London",
+      "fixedCost": 6.25,
+      "__v": 0
+    },
+    {
+      "_id": "66232864ef5cda786692dfbe",
+      "address": "1 Lennox Gardens, London NW10 1AA",
+      "rentalCost": {
+        "April:2024": "937.500"
+      },
+      "propertyName": "0B NW10 R - 2 Lennox Gardens",
+      "tag": "0B NW10 R",
+      "contractStartDate": "2023-06-05",
+      "contractEndDate": "2024-02-01",
+      "directCost": {
+        "April:2024": "986.813"
+      },
+      "group": "Exited",
+      "city": "London",
+      "fixedCost": 6.25,
+      "__v": 0
+    },
+    {
+      "_id": "66232864ef5cda786692dfbf",
+      "address": "1 Lennox Gardens, London NW10 1AA",
+      "rentalCost": {
+        "April:2024": "937.500"
+      },
+      "propertyName": "0B NW10 R - 3 Lennox Gardens",
+      "tag": "0B NW10 R",
+      "contractStartDate": "2023-06-05",
+      "contractEndDate": "2024-02-01",
+      "directCost": {
+        "April:2024": "986.813"
+      },
+      "group": "Exited",
+      "city": "London",
+      "fixedCost": 6.25,
+      "__v": 0
+    },
+    {
+      "_id": "66232864ef5cda786692dfc0",
+      "address": "1 Lennox Gardens, London NW10 1AA",
+      "rentalCost": {
+        "April:2024": "937.500"
+      },
+      "propertyName": "0B NW10 R - 4 Lennox Gardens",
+      "tag": "0B NW10 R",
+      "contractStartDate": "2023-06-05",
+      "contractEndDate": "2024-02-01",
+      "directCost": {
+        "April:2024": "986.813"
+      },
+      "group": "Exited",
+      "city": "London",
+      "fixedCost": 6.25,
+      "__v": 0
+    },
+    {
+      "_id": "66232864ef5cda786692dfc1",
+      "address": "1 Lennox Gardens, London NW10 1AA",
+      "rentalCost": {
+        "April:2024": "937.500"
+      },
+      "propertyName": "0B NW10 R - 5 Lennox Gardens",
+      "tag": "0B NW10 R",
+      "contractStartDate": "2023-06-05",
+      "contractEndDate": "2024-02-01",
+      "directCost": {
+        "April:2024": "986.813"
+      },
+      "group": "Exited",
+      "city": "London",
+      "fixedCost": 6.25,
+      "__v": 0
+    },
+    {
+      "_id": "66232864ef5cda786692dfc2",
+      "address": "1 Lennox Gardens, London NW10 1AA",
+      "rentalCost": {
+        "April:2024": "937.500"
+      },
+      "propertyName": "0B NW10 R - 6 Lennox Gardens",
+      "tag": "0B NW10 R",
+      "contractStartDate": "2023-06-05",
+      "contractEndDate": "2024-02-01",
+      "directCost": {
+        "April:2024": "986.813"
+      },
+      "group": "Exited",
+      "city": "London",
+      "fixedCost": 6.25,
+      "__v": 0
+    },
+    {
+      "_id": "66232864ef5cda786692dfc3",
+      "address": "1 Lennox Gardens, London NW10 1AA",
+      "rentalCost": {
+        "April:2024": "937.500"
+      },
+      "propertyName": "0B NW10 R - 7 Lennox Gardens",
+      "tag": "0B NW10 R",
+      "contractStartDate": "2023-06-05",
+      "contractEndDate": "2024-02-01",
+      "directCost": {
+        "April:2024": "986.813"
+      },
+      "group": "Exited",
+      "city": "London",
+      "fixedCost": 6.25,
+      "__v": 0
+    },
+    {
+      "_id": "66232864ef5cda786692dfc4",
+      "address": "1 Lennox Gardens, London NW10 1AA",
+      "rentalCost": {
+        "April:2024": "937.500"
+      },
+      "propertyName": "0B NW10 R - 8 Lennox Gardens",
+      "tag": "0B NW10 R",
+      "contractStartDate": "2023-06-05",
+      "contractEndDate": "2024-02-01",
+      "directCost": {
+        "April:2024": "986.813"
+      },
+      "group": "Exited",
+      "city": "London",
+      "fixedCost": 6.25,
+      "__v": 0
+    },
+    {
+      "_id": "66232864ef5cda786692dfc5",
+      "address": "flat 5 Mortimer Court, Abbey Road, NW8 9AB",
+      "rentalCost": {
+        "April:2024": "2450.000"
+      },
+      "propertyName": "2B NW8 - 5 Mortimer Court",
+      "tag": "2B NW8",
+      "contractStartDate": "2022-09-19",
+      "contractEndDate": null,
+      "directCost": {
+        "April:2024": "2758.170"
+      },
+      "group": "Exited",
+      "city": "London",
+      "fixedCost": 50,
+      "__v": 0
+    },
+    {
+      "_id": "66232864ef5cda786692dfc6",
+      "address": "21 St Josephs St, SW8 4DN",
+      "rentalCost": {
+        "April:2024": "2800.000"
+      },
+      "propertyName": "2B SW8 A - 14 St Josephs",
+      "tag": "2B SW8 A",
+      "contractStartDate": "2022-03-14",
+      "contractEndDate": "2024-01-14",
+      "directCost": {
+        "April:2024": "3121.000"
+      },
+      "group": "Exited",
+      "city": "London",
+      "fixedCost": 50,
+      "__v": 0
+    },
+    {
+      "_id": "66232864ef5cda786692dfc7",
+      "address": "65 Howland Way, London, SE16 6HW",
+      "rentalCost": {
+        "April:2024": "1900.000"
+      },
+      "propertyName": "2B SE16 B - 65 Howland Way",
+      "tag": "2B SE16 B",
+      "contractStartDate": "2021-12-01",
+      "contractEndDate": "2023-12-01",
+      "directCost": {
+        "April:2024": "2274.000"
+      },
+      "group": "Exited",
+      "city": "London",
+      "fixedCost": 50,
+      "__v": 0
+    },
+    {
+      "_id": "66232864ef5cda786692dfc8",
+      "address": "Flat 228 Metro Central Heights, 119 Newington Causeway, SE1 6BX",
+      "rentalCost": {
+        "April:2024": "2000.000"
+      },
+      "propertyName": "2B SE1L B - 228 Metro Central Heights",
+      "tag": "2B SE1L B",
+      "contractStartDate": "2019-12-08",
+      "contractEndDate": "2024-01-02",
+      "directCost": {
+        "April:2024": "2262.000"
+      },
+      "group": "Exited",
+      "city": "London",
+      "fixedCost": 50,
+      "__v": 0
+    },
+    {
+      "_id": "66232864ef5cda786692dfc9",
+      "address": "Apt 403, The View , 20 Palace st , London SW1E 5BA",
+      "rentalCost": {
+        "April:2024": "4333.000"
+      },
+      "propertyName": "2B SW1E - 403 The View",
+      "tag": "2B SW1E",
+      "contractStartDate": "2024-01-05",
+      "contractEndDate": "2027-01-05",
+      "directCost": {
+        "April:2024": "4619.000"
+      },
+      "group": "Exited",
+      "city": "London",
+      "fixedCost": 50,
+      "__v": 0
+    },
+    {
+      "_id": "66232864ef5cda786692dfca",
+      "address": "Flat 18, Odeon Court, 5 Chicksand Street, London, E1 5LB",
+      "rentalCost": {
+        "April:2024": "2200.000"
+      },
+      "propertyName": "2B E2 A - 18 Odeon Court",
+      "tag": "2B E2 A",
+      "contractStartDate": "2022-02-06",
+      "contractEndDate": "2023-02-06",
+      "directCost": {
+        "April:2024": "2524.910"
+      },
+      "group": "Exited",
+      "city": "London",
+      "fixedCost": 50,
+      "__v": 0
+    },
+    {
+      "_id": "66232864ef5cda786692dfcb",
+      "address": "Flat 64, Warren House, W14 8TT",
+      "rentalCost": {
+        "April:2024": "2964.000"
+      },
+      "propertyName": "64 Warren House",
+      "tag": "64 Warren House",
+      "contractStartDate": "2022-02-21",
+      "contractEndDate": "2024-02-21",
+      "directCost": {
+        "April:2024": "3144.000"
+      },
+      "group": "Exited",
+      "city": "London",
+      "fixedCost": 50,
+      "__v": 0
+    },
+    {
+      "_id": "66232864ef5cda786692dfcc",
+      "address": "13a Hill Rise, richmond, TW10 6UQ",
+      "rentalCost": {
+        "April:2024": "NaN"
+      },
+      "propertyName": "3B TW10 - 13A Hill Rise",
+      "tag": "3B TW10",
+      "contractStartDate": "2023-09-01",
+      "contractEndDate": "2024-03-13",
+      "directCost": {
+        "April:2024": "200.000"
+      },
+      "group": "Exited",
+      "city": "London",
+      "fixedCost": 50,
+      "__v": 0
+    },
+    {
+      "_id": "66232864ef5cda786692dfcd",
+      "address": "3 Drayton Gardens, Ealing, W130LG",
+      "rentalCost": {
+        "April:2024": "NaN"
+      },
+      "propertyName": "5B W13 G - 3 Drayton Gardens",
+      "tag": "5B W13 G",
+      "contractStartDate": "2023-08-10",
+      "contractEndDate": "2024-03-12",
+      "directCost": {
+        "April:2024": "0.000"
+      },
+      "group": "Exited",
+      "city": "London",
+      "fixedCost": 50,
+      "__v": 0
+    },
+    {
+      "_id": "66232864ef5cda786692dfce",
+      "address": "Flat 1, 102 Lexham Gardens, W8 6JQ",
+      "rentalCost": {
+        "April:2024": "2800.000"
+      },
+      "propertyName": "1B W8 - 1 Lexham Gardens",
+      "tag": "1B W8",
+      "contractStartDate": "2023-07-10",
+      "contractEndDate": "2026-07-10",
+      "directCost": {
+        "April:2024": "3101.000"
+      },
+      "group": "Exited",
+      "city": "London",
+      "fixedCost": 50,
+      "__v": 0
+    },
+    {
+      "_id": "66232864ef5cda786692dfcf",
+      "address": "22 Exeter way, New Cross, London SE14 6LL",
+      "rentalCost": {
+        "April:2024": "900.000"
+      },
+      "propertyName": "0B SE14 B - 1 Exeter Way",
+      "tag": "0B SE14 B",
+      "contractStartDate": "2023-06-14",
+      "contractEndDate": "2026-06-14",
+      "directCost": {
+        "April:2024": "945.900"
+      },
+      "group": "Exited",
+      "city": "London",
+      "fixedCost": 7.142857142857143,
+      "__v": 0
+    },
+    {
+      "_id": "66232864ef5cda786692dfd0",
+      "address": "22 Exeter way, New Cross, London SE14 6LL",
+      "rentalCost": {
+        "April:2024": "900.000"
+      },
+      "propertyName": "0B SE14 B - 2 Exeter Way",
+      "tag": "0B SE14 B",
+      "contractStartDate": "2023-06-14",
+      "contractEndDate": "2026-06-14",
+      "directCost": {
+        "April:2024": "945.900"
+      },
+      "group": "Exited",
+      "city": "London",
+      "fixedCost": 7.142857142857143,
+      "__v": 0
+    },
+    {
+      "_id": "66232864ef5cda786692dfd1",
+      "address": "22 Exeter way, New Cross, London SE14 6LL",
+      "rentalCost": {
+        "April:2024": "900.000"
+      },
+      "propertyName": "0B SE14 B - 3 Exeter Way",
+      "tag": "0B SE14 B",
+      "contractStartDate": "2023-06-14",
+      "contractEndDate": "2026-06-14",
+      "directCost": {
+        "April:2024": "945.900"
+      },
+      "group": "Exited",
+      "city": "London",
+      "fixedCost": 7.142857142857143,
+      "__v": 0
+    },
+    {
+      "_id": "66232864ef5cda786692dfd2",
+      "address": "22 Exeter way, New Cross, London SE14 6LL",
+      "rentalCost": {
+        "April:2024": "900.000"
+      },
+      "propertyName": "0B SE14 B - 4 Exeter Way",
+      "tag": "0B SE14 B",
+      "contractStartDate": "2023-06-14",
+      "contractEndDate": "2026-06-14",
+      "directCost": {
+        "April:2024": "945.900"
+      },
+      "group": "Exited",
+      "city": "London",
+      "fixedCost": 7.142857142857143,
+      "__v": 0
+    },
+    {
+      "_id": "66232864ef5cda786692dfd3",
+      "address": "22 Exeter way, New Cross, London SE14 6LL",
+      "rentalCost": {
+        "April:2024": "900.000"
+      },
+      "propertyName": "0B SE14 B - 5 Exeter Way",
+      "tag": "0B SE14 B",
+      "contractStartDate": "2023-06-14",
+      "contractEndDate": "2026-06-14",
+      "directCost": {
+        "April:2024": "945.900"
+      },
+      "group": "Exited",
+      "city": "London",
+      "fixedCost": 7.142857142857143,
+      "__v": 0
+    },
+    {
+      "_id": "66232864ef5cda786692dfd4",
+      "address": "22 Exeter way, New Cross, London SE14 6LL",
+      "rentalCost": {
+        "April:2024": "900.000"
+      },
+      "propertyName": "0B SE14 B - 6 Exeter Way",
+      "tag": "0B SE14 B",
+      "contractStartDate": "2023-06-14",
+      "contractEndDate": "2026-06-14",
+      "directCost": {
+        "April:2024": "945.900"
+      },
+      "group": "Exited",
+      "city": "London",
+      "fixedCost": 7.142857142857143,
+      "__v": 0
+    },
+    {
+      "_id": "66232864ef5cda786692dfd5",
+      "address": "22 Exeter way, New Cross, London SE14 6LL",
+      "rentalCost": {
+        "April:2024": "900.000"
+      },
+      "propertyName": "0B SE14 B - 7 Exeter Way",
+      "tag": "0B SE14 B",
+      "contractStartDate": "2023-06-14",
+      "contractEndDate": "2026-06-14",
+      "directCost": {
+        "April:2024": "945.900"
+      },
+      "group": "Exited",
+      "city": "London",
+      "fixedCost": 7.142857142857143,
+      "__v": 0
+    },
+    {
+      "_id": "66232864ef5cda786692dfd6",
+      "address": "107 C Chobham road E15 1LX",
+      "rentalCost": {
+        "April:2024": "1800.000"
+      },
+      "propertyName": "1B E15 - Chobham Road",
+      "tag": "1B E15",
+      "contractStartDate": "2021-10-01",
+      "contractEndDate": null,
+      "directCost": {
+        "April:2024": "1920.000"
+      },
+      "group": "Exited",
+      "city": "London",
+      "fixedCost": 50,
+      "__v": 0
+    },
+    {
+      "_id": "66232864ef5cda786692dfd7",
+      "address": "13 Nettleden Avenue Wembley HA96DP (copy) (copy) (copy)",
+      "rentalCost": {
+        "April:2024": "585.714"
+      },
+      "propertyName": "0B HA - 1 Nettleden Avenue",
+      "tag": "0B HA",
+      "contractStartDate": "2023-05-15",
+      "contractEndDate": "2024-04-05",
+      "directCost": {
+        "April:2024": "655.190"
+      },
+      "group": "Exited",
+      "city": "London",
+      "fixedCost": 7.142857142857143,
+      "__v": 0
+    },
+    {
+      "_id": "66232864ef5cda786692dfd8",
+      "address": "13 Nettleden Avenue Wembley HA96DP",
+      "rentalCost": {
+        "April:2024": "585.714"
+      },
+      "propertyName": "0B HA R - 1 Nettleden Avenue",
+      "tag": "0B HA R",
+      "contractStartDate": "2023-05-15",
+      "contractEndDate": "2024-04-05",
+      "directCost": {
+        "April:2024": "655.190"
+      },
+      "group": "Exited",
+      "city": "London",
+      "fixedCost": 7.142857142857143,
+      "__v": 0
+    },
+    {
+      "_id": "66232864ef5cda786692dfd9",
+      "address": "13 Nettleden Avenue Wembley HA96DP",
+      "rentalCost": {
+        "April:2024": "585.714"
+      },
+      "propertyName": "0B HA R - 2 Nettleden Avenue",
+      "tag": "0B HA R",
+      "contractStartDate": "2023-05-15",
+      "contractEndDate": "2024-04-05",
+      "directCost": {
+        "April:2024": "655.190"
+      },
+      "group": "Exited",
+      "city": "London",
+      "fixedCost": 7.142857142857143,
+      "__v": 0
+    },
+    {
+      "_id": "66232864ef5cda786692dfda",
+      "address": "13 Nettleden Avenue Wembley HA96DP",
+      "rentalCost": {
+        "April:2024": "585.714"
+      },
+      "propertyName": "0B HA R - 3 Nettleden Avenue",
+      "tag": "0B HA R",
+      "contractStartDate": "2023-05-15",
+      "contractEndDate": "2024-04-05",
+      "directCost": {
+        "April:2024": "655.190"
+      },
+      "group": "Exited",
+      "city": "London",
+      "fixedCost": 7.142857142857143,
+      "__v": 0
+    },
+    {
+      "_id": "66232864ef5cda786692dfdb",
+      "address": "13 Nettleden Avenue Wembley HA96DP",
+      "rentalCost": {
+        "April:2024": "585.714"
+      },
+      "propertyName": "0B HA R - 4 Nettleden Avenue",
+      "tag": "0B HA R",
+      "contractStartDate": "2023-05-15",
+      "contractEndDate": "2024-04-05",
+      "directCost": {
+        "April:2024": "655.190"
+      },
+      "group": "Exited",
+      "city": "London",
+      "fixedCost": 7.142857142857143,
+      "__v": 0
+    },
+    {
+      "_id": "66232864ef5cda786692dfdc",
+      "address": "13 Nettleden Avenue Wembley HA96DP",
+      "rentalCost": {
+        "April:2024": "585.714"
+      },
+      "propertyName": "0B HA R - 5 Nettleden Avenue",
+      "tag": "0B HA R",
+      "contractStartDate": "2023-05-15",
+      "contractEndDate": "2024-04-05",
+      "directCost": {
+        "April:2024": "655.190"
+      },
+      "group": "Exited",
+      "city": "London",
+      "fixedCost": 7.142857142857143,
+      "__v": 0
+    },
+    {
+      "_id": "66232864ef5cda786692dfdd",
+      "address": "13 Nettleden Avenue Wembley HA96DP",
+      "rentalCost": {
+        "April:2024": "585.714"
+      },
+      "propertyName": "0B HA R - 6 Nettleden Avenue",
+      "tag": "0B HA R",
+      "contractStartDate": "2023-05-15",
+      "contractEndDate": "2024-04-05",
+      "directCost": {
+        "April:2024": "655.190"
+      },
+      "group": "Exited",
+      "city": "London",
+      "fixedCost": 7.142857142857143,
+      "__v": 0
+    },
+    {
+      "_id": "66232864ef5cda786692dfde",
+      "address": "Flat 3, 28 Mead Place, London, E9 6BF",
+      "rentalCost": {
+        "April:2024": "1700.000"
+      },
+      "propertyName": "1B E9 A - 28 Mead Place",
+      "tag": "1B E9 A",
+      "contractStartDate": "2021-05-08",
+      "contractEndDate": null,
+      "directCost": {
+        "April:2024": "1976.000"
+      },
+      "group": "Exited",
+      "city": "London",
+      "fixedCost": 50,
+      "__v": 0
+    }
+  ]
+}
